@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w9J3aGP1YppS9A7rsf4fe4gNmx3sUebPE3ey8OsPITDDJcdxhv4lCCuh7I34hY0DRwhEF45eajHdy18x3a+Wwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\MarkerDal\\MarkerDal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\contracts\\1.0.5\\contracts.1.0.5.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\infracontracts\\1.0.3\\infracontracts.1.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\odp.netcore\\2.0.12\\odp.netcore.2.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

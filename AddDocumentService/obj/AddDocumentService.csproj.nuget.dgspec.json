@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\server3\\AddDocumentService\\AddDocumentService.csproj": {}
+    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\AddDocumentService\\AddDocumentService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\server3\\AddDocumentService\\AddDocumentService.csproj": {
+    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\AddDocumentService\\AddDocumentService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\server3\\AddDocumentService\\AddDocumentService.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\AddDocumentService\\AddDocumentService.csproj",
         "projectName": "AddDocumentService",
-        "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\server3\\AddDocumentService\\AddDocumentService.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\AddDocumentService\\AddDocumentService.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\server3\\AddDocumentService\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\AddDocumentService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\server3\\DrawPicContracts\\DrawPicContracts.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\server3\\DrawPicContracts\\DrawPicContracts.csproj"
+              "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\DrawPicContracts.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\DrawPicContracts.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\server3\\DrawPicContracts\\DrawPicContracts.csproj": {
+    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\DrawPicContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\server3\\DrawPicContracts\\DrawPicContracts.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\DrawPicContracts.csproj",
         "projectName": "DrawPicContracts",
-        "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\server3\\DrawPicContracts\\DrawPicContracts.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\DrawPicContracts.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\server3\\DrawPicContracts\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

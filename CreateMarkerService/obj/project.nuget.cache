@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qyBS3SSy//jdG8iOvDAitqfu9nbNifD3RChTc+j44fEG01eMMw5cKn1f1COXHzutpPuyS+acc06Qz+gRZuqgUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\CreateMarkerService\\CreateMarkerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\contracts\\1.0.5\\contracts.1.0.5.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\infracontracts\\1.0.3\\infracontracts.1.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\odp.netcore\\2.0.12\\odp.netcore.2.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
