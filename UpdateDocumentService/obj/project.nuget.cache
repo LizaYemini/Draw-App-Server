@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "eNu/tP3NsjwUhnJyRCATlSEtye0diEb3FJ5WDHzW0NdkxwJ40n82XZ6QrKtv4qH0OBzIxNXVdv8EuWGp0DNlZg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\UpdateDocumentService\\UpdateDocumentService.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\DrawPicContracts\\DrawPicContracts.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\DrawPicContracts\\DrawPicContracts.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

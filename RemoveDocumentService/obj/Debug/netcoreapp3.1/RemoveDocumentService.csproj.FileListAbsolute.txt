@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveDocumentService\bin\Debug\netcoreapp3.1\RemoveDocumentService.deps.json
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveDocumentService\bin\Debug\netcoreapp3.1\RemoveDocumentService.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveDocumentService\bin\Debug\netcoreapp3.1\RemoveDocumentService.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveDocumentService\bin\Debug\netcoreapp3.1\DrawPicContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveDocumentService\bin\Debug\netcoreapp3.1\DrawPicContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveDocumentService\obj\Debug\netcoreapp3.1\RemoveDocumentService.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveDocumentService\obj\Debug\netcoreapp3.1\RemoveDocumentService.AssemblyInfo.cs
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveDocumentService\obj\Debug\netcoreapp3.1\RemoveDocumentService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveDocumentService\obj\Debug\netcoreapp3.1\RemoveDocumentService.csproj.CopyComplete
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveDocumentService\obj\Debug\netcoreapp3.1\RemoveDocumentService.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveDocumentService\obj\Debug\netcoreapp3.1\RemoveDocumentService.pdb

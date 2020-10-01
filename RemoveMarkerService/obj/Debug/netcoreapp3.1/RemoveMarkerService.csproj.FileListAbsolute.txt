@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveMarkerService\bin\Debug\netcoreapp3.1\RemoveMarkerService.deps.json
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveMarkerService\bin\Debug\netcoreapp3.1\RemoveMarkerService.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveMarkerService\bin\Debug\netcoreapp3.1\RemoveMarkerService.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveMarkerService\bin\Debug\netcoreapp3.1\DrawPicContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveMarkerService\bin\Debug\netcoreapp3.1\DrawPicContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveMarkerService\obj\Debug\netcoreapp3.1\RemoveMarkerService.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveMarkerService\obj\Debug\netcoreapp3.1\RemoveMarkerService.AssemblyInfo.cs
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveMarkerService\obj\Debug\netcoreapp3.1\RemoveMarkerService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveMarkerService\obj\Debug\netcoreapp3.1\RemoveMarkerService.csproj.CopyComplete
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveMarkerService\obj\Debug\netcoreapp3.1\RemoveMarkerService.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Server2\RemoveMarkerService\obj\Debug\netcoreapp3.1\RemoveMarkerService.pdb

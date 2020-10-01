@@ -1,0 +1,160 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Contracts/1.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Contracts.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Contracts.dll": {}
+        }
+      },
+      "InfraContracts/1.0.3": {
+        "type": "package",
+        "dependencies": {
+          "ODP.NetCore": "2.0.12"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/InfraContracts.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/InfraContracts.dll": {}
+        }
+      },
+      "ODP.NetCore/2.0.12": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        }
+      },
+      "DrawPicContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Contracts": "1.0.5",
+          "InfraContracts": "1.0.3",
+          "ODP.NetCore": "2.0.12"
+        },
+        "compile": {
+          "bin/placeholder/DrawPicContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DrawPicContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contracts/1.0.5": {
+      "sha512": "CyAXkwPti+uPYjKAmUgJktwBtKrkAjNBWvoWFNIK9p0pZAh7Aa3TsKbXX1P8pKjhU8PLS+VP8nzH88GdZplm+A==",
+      "type": "package",
+      "path": "contracts/1.0.5",
+      "files": [
+        ".nupkg.metadata",
+        "contracts.1.0.5.nupkg.sha512",
+        "contracts.nuspec",
+        "lib/netcoreapp3.1/Contracts.dll"
+      ]
+    },
+    "InfraContracts/1.0.3": {
+      "sha512": "1hV6PP7bPy5ku/iMLhtch8CKIjOOg+hYnxTsSPIXOaTf4EeVeVZy2/mjgd5pdFDOvXIRSOsCovdDshyN6hXNLg==",
+      "type": "package",
+      "path": "infracontracts/1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        "infracontracts.1.0.3.nupkg.sha512",
+        "infracontracts.nuspec",
+        "lib/netcoreapp3.1/InfraContracts.dll"
+      ]
+    },
+    "ODP.NetCore/2.0.12": {
+      "sha512": "JO0XH6/SYOFdxurhxXCa+uMThj4jYNVEOEELPjTcadzVGn0/f3evA6p1cwUoI7IRxDhBGtJc2wDi+cAxUvz76Q==",
+      "type": "package",
+      "path": "odp.netcore/2.0.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Oracle.ManagedDataAccess.dll",
+        "odp.netcore.2.0.12.nupkg.sha512",
+        "odp.netcore.nuspec"
+      ]
+    },
+    "DrawPicContracts/1.0.0": {
+      "type": "project",
+      "path": "../DrawPicContracts/DrawPicContracts.csproj",
+      "msbuildProject": "../DrawPicContracts/DrawPicContracts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DrawPicContracts >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\RemoveDocumentService\\RemoveDocumentService.csproj",
+      "projectName": "RemoveDocumentService",
+      "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\RemoveDocumentService\\RemoveDocumentService.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\RemoveDocumentService\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\IdMechanism\\IdMechanismPublish": {},
+        "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\InfraPublish": {},
+        "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\RestAPI\\#5\\Packages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\DrawPicContracts\\DrawPicContracts.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\DrawPicContracts\\DrawPicContracts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
