@@ -22,3 +22,9 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicAp
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\staticwebassets\DrawPicApp.StaticWebAssets.xml
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\DrawPicApp.deps.json
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\DrawPicApp.runtimeconfig.json
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\DrawPicApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\DrawPicApp.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\DrawPicApp.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.genruntimeconfig.cache

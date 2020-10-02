@@ -7,19 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrawPicApp", "DrawPicApp.cs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrawPicContracts", "..\DrawPicContracts\DrawPicContracts.csproj", "{124EFFE3-81A2-4DBB-8BDC-D9BA470CA078}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignUpTester", "..\SignUpTester\SignUpTester.csproj", "{550DF7F8-4D2B-4D7C-B175-F98770331AE8}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddDocumentService", "..\AddDocumentService\AddDocumentService.csproj", "{6F57E081-7983-4D73-AED7-8D5CBF081907}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocumentsDal", "..\DocumentsDal\DocumentsDal.csproj", "{11067552-70AE-4E38-AB33-5690993FD9FB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocumentsDalTester", "..\DocumentsDalTester\DocumentsDalTester.csproj", "{5647A3AE-AED4-43B8-A6E8-F05044E7F88C}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddDocumentServiceTest", "..\AddDocumentServiceTest\AddDocumentServiceTest.csproj", "{4E261BB3-0AE8-424E-83AD-6A788BDD9AEA}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetDocumentService", "..\GetDocumentService\GetDocumentService.csproj", "{22CD5D5E-0AB6-48F8-B4F9-CEA314F59DB5}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetDocumentServiceTester", "..\GetDocumentServiceTester\GetDocumentServiceTester.csproj", "{6A8FDC1D-B0B4-4478-BB49-451EEAB6699B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreateShareService", "..\CreateShareService\CreateShareService.csproj", "{785690FB-2142-4E2E-AAF1-89831B34F515}"
 EndProject
@@ -42,8 +34,6 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveShareService", "..\RemoveShareService\RemoveShareService.csproj", "{C902E699-2FC2-4744-9079-A3B5CB28EECA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShareDal", "..\ShareDal\ShareDal.csproj", "{312899FB-D448-474E-BD18-F1F4E158F239}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShareDalTester", "..\ShareDalTester\ShareDalTester.csproj", "{8D6E3E1D-19C4-4A50-9989-2D10B7D1F20F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignInService", "..\SignInService\SignInService.csproj", "{2FF8EFAD-1109-40A4-B6F9-DB689CC9875A}"
 EndProject
@@ -71,10 +61,6 @@ Global
 		{124EFFE3-81A2-4DBB-8BDC-D9BA470CA078}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{124EFFE3-81A2-4DBB-8BDC-D9BA470CA078}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{124EFFE3-81A2-4DBB-8BDC-D9BA470CA078}.Release|Any CPU.Build.0 = Release|Any CPU
-		{550DF7F8-4D2B-4D7C-B175-F98770331AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{550DF7F8-4D2B-4D7C-B175-F98770331AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{550DF7F8-4D2B-4D7C-B175-F98770331AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{550DF7F8-4D2B-4D7C-B175-F98770331AE8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6F57E081-7983-4D73-AED7-8D5CBF081907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6F57E081-7983-4D73-AED7-8D5CBF081907}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F57E081-7983-4D73-AED7-8D5CBF081907}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -83,22 +69,10 @@ Global
 		{11067552-70AE-4E38-AB33-5690993FD9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11067552-70AE-4E38-AB33-5690993FD9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11067552-70AE-4E38-AB33-5690993FD9FB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5647A3AE-AED4-43B8-A6E8-F05044E7F88C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5647A3AE-AED4-43B8-A6E8-F05044E7F88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5647A3AE-AED4-43B8-A6E8-F05044E7F88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5647A3AE-AED4-43B8-A6E8-F05044E7F88C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4E261BB3-0AE8-424E-83AD-6A788BDD9AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4E261BB3-0AE8-424E-83AD-6A788BDD9AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4E261BB3-0AE8-424E-83AD-6A788BDD9AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4E261BB3-0AE8-424E-83AD-6A788BDD9AEA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{22CD5D5E-0AB6-48F8-B4F9-CEA314F59DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{22CD5D5E-0AB6-48F8-B4F9-CEA314F59DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22CD5D5E-0AB6-48F8-B4F9-CEA314F59DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22CD5D5E-0AB6-48F8-B4F9-CEA314F59DB5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6A8FDC1D-B0B4-4478-BB49-451EEAB6699B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6A8FDC1D-B0B4-4478-BB49-451EEAB6699B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6A8FDC1D-B0B4-4478-BB49-451EEAB6699B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6A8FDC1D-B0B4-4478-BB49-451EEAB6699B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{785690FB-2142-4E2E-AAF1-89831B34F515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{785690FB-2142-4E2E-AAF1-89831B34F515}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{785690FB-2142-4E2E-AAF1-89831B34F515}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -143,10 +117,6 @@ Global
 		{312899FB-D448-474E-BD18-F1F4E158F239}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{312899FB-D448-474E-BD18-F1F4E158F239}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{312899FB-D448-474E-BD18-F1F4E158F239}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8D6E3E1D-19C4-4A50-9989-2D10B7D1F20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8D6E3E1D-19C4-4A50-9989-2D10B7D1F20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8D6E3E1D-19C4-4A50-9989-2D10B7D1F20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8D6E3E1D-19C4-4A50-9989-2D10B7D1F20F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2FF8EFAD-1109-40A4-B6F9-DB689CC9875A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2FF8EFAD-1109-40A4-B6F9-DB689CC9875A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FF8EFAD-1109-40A4-B6F9-DB689CC9875A}.Release|Any CPU.ActiveCfg = Release|Any CPU

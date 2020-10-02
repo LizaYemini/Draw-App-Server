@@ -20,3 +20,4 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerDal
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerDal\obj\Debug\netcoreapp3.1\MarkerDal.csproj.CopyComplete
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerDal\obj\Debug\netcoreapp3.1\MarkerDal.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerDal\obj\Debug\netcoreapp3.1\MarkerDal.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerDal\obj\Debug\netcoreapp3.1\MarkerDal.csprojAssemblyReference.cache

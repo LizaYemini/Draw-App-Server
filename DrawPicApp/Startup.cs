@@ -1,6 +1,7 @@
 using System;
 using System.IO;
 using DI;
+using DrawPicContracts.Interface;
 using InfraContracts.Interfaces;
 using InfraDal;
 using Microsoft.AspNetCore.Builder;
@@ -23,6 +24,7 @@ namespace DrawPicApp
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            var connStr = Configuration.GetValue<string>("Oracle:strConn");
             services.AddCors();
             services.AddMvc();
             /*
@@ -32,12 +34,13 @@ namespace DrawPicApp
             });
             */
             services.AddTransient<IInfraDal, InfraDalImpl>();
+            services.AddScoped<IConnectionString>(c => new ProductionDbContextConnectionString(connStr));
             var path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "dlls");
             var resolver = new Resolver(path, services);
             //services.AddSingleton<IResolver>(sp => resolver);
             services.AddControllers();
 
-            
+                
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

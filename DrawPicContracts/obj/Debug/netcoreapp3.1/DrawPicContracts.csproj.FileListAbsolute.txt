@@ -15,3 +15,4 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicCo
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicContracts\obj\Debug\netcoreapp3.1\DrawPicContracts.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicContracts\obj\Debug\netcoreapp3.1\DrawPicContracts.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicContracts\obj\Debug\netcoreapp3.1\DrawPicContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicContracts\obj\Debug\netcoreapp3.1\DrawPicContracts.csprojAssemblyReference.cache

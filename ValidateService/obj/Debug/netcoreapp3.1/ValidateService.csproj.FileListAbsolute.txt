@@ -21,3 +21,4 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ValidateS
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ValidateService\obj\Debug\netcoreapp3.1\ValidateService.csproj.CopyComplete
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ValidateService\obj\Debug\netcoreapp3.1\ValidateService.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ValidateService\obj\Debug\netcoreapp3.1\ValidateService.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ValidateService\obj\Debug\netcoreapp3.1\ValidateService.csprojAssemblyReference.cache

@@ -20,3 +20,17 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateSha
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.AssemblyInfo.cs
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\bin\Debug\netcoreapp3.1\DrawPicApp.exe
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\bin\Debug\netcoreapp3.1\CreateShareService.deps.json
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\bin\Debug\netcoreapp3.1\CreateShareService.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\bin\Debug\netcoreapp3.1\CreateShareService.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\bin\Debug\netcoreapp3.1\DrawPicApp.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\bin\Debug\netcoreapp3.1\DrawPicContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\bin\Debug\netcoreapp3.1\DrawPicApp.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\bin\Debug\netcoreapp3.1\DrawPicContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.csproj.CopyComplete
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.pdb

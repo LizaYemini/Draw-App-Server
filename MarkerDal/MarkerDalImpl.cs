@@ -14,11 +14,10 @@ namespace MarkerDal
         private readonly OracleConnection _conn;
         private readonly IInfraDal _infraDal;
 
-        public MarkerDalImpl(IInfraDal infraDal)
+        public MarkerDalImpl(IInfraDal infraDal, IConnectionString connectionString)
         {
             _infraDal = infraDal;
-            var strConn =
-                "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)));User Id=CTL;Password=1234;";
+            var strConn = connectionString.ConnectionString;
             _conn = new OracleConnection(strConn);
         }
         public DataSet CreateMarker(CreateMarkerRequest request)
