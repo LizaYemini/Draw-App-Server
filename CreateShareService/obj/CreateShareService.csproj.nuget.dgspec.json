@@ -115,6 +115,10 @@
               "target": "Package",
               "version": "[1.0.0, )"
             },
+            "InfraMessengerWS": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
             "Microsoft.AspNetCore.Cors": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -185,7 +189,7 @@
             },
             "InfraContracts": {
               "target": "Package",
-              "version": "[1.0.3, )"
+              "version": "[1.0.4, )"
             },
             "ODP.NetCore": {
               "target": "Package",

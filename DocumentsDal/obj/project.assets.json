@@ -20,7 +20,7 @@
           "lib/netcoreapp3.1/IdMechanism.dll": {}
         }
       },
-      "InfraContracts/1.0.3": {
+      "InfraContracts/1.0.4": {
         "type": "package",
         "dependencies": {
           "ODP.NetCore": "2.0.12"
@@ -46,7 +46,7 @@
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "Contracts": "1.0.5",
-          "InfraContracts": "1.0.3",
+          "InfraContracts": "1.0.4",
           "ODP.NetCore": "2.0.12"
         },
         "compile": {
@@ -81,13 +81,13 @@
         "lib/netcoreapp3.1/IdMechanism.dll"
       ]
     },
-    "InfraContracts/1.0.3": {
-      "sha512": "1hV6PP7bPy5ku/iMLhtch8CKIjOOg+hYnxTsSPIXOaTf4EeVeVZy2/mjgd5pdFDOvXIRSOsCovdDshyN6hXNLg==",
+    "InfraContracts/1.0.4": {
+      "sha512": "XL65mXxW4aozxl2s7JD+zprz9H4ZEgqHy5/uNNbM0+FeazRxJ7nOI4POsLGCOiTCHXa8aaYbHFx2uSfzw3o6mg==",
       "type": "package",
-      "path": "infracontracts/1.0.3",
+      "path": "infracontracts/1.0.4",
       "files": [
         ".nupkg.metadata",
-        "infracontracts.1.0.3.nupkg.sha512",
+        "infracontracts.1.0.4.nupkg.sha512",
         "infracontracts.nuspec",
         "lib/netcoreapp3.1/InfraContracts.dll"
       ]

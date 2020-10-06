@@ -34,23 +34,34 @@
           }
         }
       },
-      "InfraContracts/1.0.3": {
+      "InfraContracts/1.0.4": {
         "dependencies": {
           "ODP.NetCore": "2.0.12"
         },
         "runtime": {
           "lib/netcoreapp3.1/InfraContracts.dll": {
-            "assemblyVersion": "1.0.3.0",
-            "fileVersion": "1.0.3.0"
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
           }
         }
       },
       "InfraDal/1.0.0": {
         "dependencies": {
-          "InfraContracts": "1.0.3"
+          "InfraContracts": "1.0.4"
         },
         "runtime": {
           "lib/netcoreapp3.1/InfraDal.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "InfraMessengerWS/1.0.0": {
+        "dependencies": {
+          "InfraContracts": "1.0.4"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/InfraMessengerWS.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -151,6 +162,7 @@
           "DI": "1.0.3",
           "DrawPicContracts": "1.0.0",
           "InfraDal": "1.0.0",
+          "InfraMessengerWS": "1.0.0",
           "Microsoft.AspNetCore.Cors": "2.2.0"
         },
         "runtime": {
@@ -160,7 +172,7 @@
       "DrawPicContracts/1.0.0": {
         "dependencies": {
           "Contracts": "1.0.5",
-          "InfraContracts": "1.0.3",
+          "InfraContracts": "1.0.4",
           "ODP.NetCore": "2.0.12"
         },
         "runtime": {
@@ -189,12 +201,12 @@
       "path": "di/1.0.3",
       "hashPath": "di.1.0.3.nupkg.sha512"
     },
-    "InfraContracts/1.0.3": {
+    "InfraContracts/1.0.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-1hV6PP7bPy5ku/iMLhtch8CKIjOOg+hYnxTsSPIXOaTf4EeVeVZy2/mjgd5pdFDOvXIRSOsCovdDshyN6hXNLg==",
-      "path": "infracontracts/1.0.3",
-      "hashPath": "infracontracts.1.0.3.nupkg.sha512"
+      "sha512": "sha512-XL65mXxW4aozxl2s7JD+zprz9H4ZEgqHy5/uNNbM0+FeazRxJ7nOI4POsLGCOiTCHXa8aaYbHFx2uSfzw3o6mg==",
+      "path": "infracontracts/1.0.4",
+      "hashPath": "infracontracts.1.0.4.nupkg.sha512"
     },
     "InfraDal/1.0.0": {
       "type": "package",
@@ -202,6 +214,13 @@
       "sha512": "sha512-bqswmb/aRsQZ/cGuOpy117J3zabpXAps+WpVNTmbUB2nmkZbdsf9fL/EUqZC7+LPsBHsCs0x5WntE9GuwSoeRg==",
       "path": "infradal/1.0.0",
       "hashPath": "infradal.1.0.0.nupkg.sha512"
+    },
+    "InfraMessengerWS/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yue6ugpvDQkU9AfRbmqhG83Dyxb0WHy1jMiumrtvNeqWCq+YFxI4Dcyz0qCll5uWAOdPiJzpCQ2byTTwXlxPpA==",
+      "path": "inframessengerws/1.0.0",
+      "hashPath": "inframessengerws.1.0.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cors/2.2.0": {
       "type": "package",

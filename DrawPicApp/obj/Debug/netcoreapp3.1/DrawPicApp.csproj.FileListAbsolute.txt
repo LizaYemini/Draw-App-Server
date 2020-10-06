@@ -14,8 +14,6 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicAp
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.csprojAssemblyReference.cache
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.AssemblyInfo.cs
-C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.RazorTargetAssemblyInfo.cache
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.csproj.CopyComplete
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\staticwebassets\DrawPicApp.StaticWebAssets.Manifest.cache
@@ -28,3 +26,6 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicAp
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\DrawPicApp.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\DrawPicApp.pdb
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.genruntimeconfig.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\InfraMessengerWS.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.MvcApplicationPartsAssemblyInfo.cache

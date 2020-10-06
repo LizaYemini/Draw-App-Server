@@ -106,7 +106,7 @@
             },
             "InfraContracts": {
               "target": "Package",
-              "version": "[1.0.3, )"
+              "version": "[1.0.4, )"
             },
             "ODP.NetCore": {
               "target": "Package",

@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="Contracts" Version="1.0.5" />
-    <PackageReference Include="InfraContracts" Version="1.0.3" />
+    <PackageReference Include="InfraContracts" Version="1.0.4" />
     <PackageReference Include="ODP.NetCore" Version="2.0.12" />
   </ItemGroup>
 

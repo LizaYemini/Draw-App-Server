@@ -20,3 +20,4 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllUse
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllUsersService\obj\Debug\netcoreapp3.1\GetAllUsersService.csproj.CopyComplete
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllUsersService\obj\Debug\netcoreapp3.1\GetAllUsersService.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllUsersService\obj\Debug\netcoreapp3.1\GetAllUsersService.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllUsersService\obj\Debug\netcoreapp3.1\GetAllUsersService.csprojAssemblyReference.cache
