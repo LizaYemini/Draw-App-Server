@@ -2,6 +2,8 @@
 {
     public class CreateMarkerResponseOk: CreateMarkerResponse
     {
+        public MarkerDto Marker { get; set; }
+        /*
         public string DocId { get; set; }
         public string MarkerId { get; set; }
         public string MarkerType { get; set; }
@@ -12,6 +14,6 @@
         public double LocationX { get; set; }
         public double LocationY { get; set; }
         public double Width { get; set; }
-        public double Height { get; set; }
+        public double Height { get; set; } */
     }
 }

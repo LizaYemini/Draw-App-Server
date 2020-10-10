@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AscOVTj1hGsS+O28pOPKecvyrFvxR3WprcBLob5APLE+4OGtzlYqpGtNTTNLlxz6ybMKUNQA/0Xik2UKj3KVGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\MarkerWebSocket\\MarkerWebSocket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\contracts\\1.0.5\\contracts.1.0.5.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\infracontracts\\1.0.8\\infracontracts.1.0.8.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\odp.netcore\\2.0.12\\odp.netcore.2.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

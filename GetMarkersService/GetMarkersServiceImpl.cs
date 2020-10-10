@@ -33,10 +33,18 @@ namespace GetMarkersService
                         ForColor = table.Rows[i]["ForColor"].ToString(),
                         BackColor = table.Rows[i]["BackColor"].ToString(),
                         UserId = table.Rows[i]["UserId"].ToString(),
+                        LocationX = Convert.ToDouble(table.Rows[i]["LocationX"].ToString()),
+                        LocationY = Convert.ToDouble(table.Rows[i]["LocationY"].ToString()),
+                        Height = Convert.ToDouble(table.Rows[i]["Height"].ToString()),
+                        Width = Convert.ToDouble(table.Rows[i]["Width"].ToString())
+                        
+                        /*
                         LocationX = Convert.ToInt32((decimal)table.Rows[i]["LocationX"]),
                         LocationY = Convert.ToInt32((decimal)table.Rows[i]["LocationY"]),
                         Height = Convert.ToInt32((decimal)table.Rows[i]["Height"]),
                         Width= Convert.ToInt32((decimal)table.Rows[i]["Width"])
+                        */
+                        
                     };
                     markersList.Add(temp);
                 }

@@ -27,16 +27,16 @@ namespace MarkerDal
                 Connection = _conn,
                 CommandText = "CreateMarker"
             };
-            var param1 = _infraDal.GetParameter("DocId", OracleDbType.Varchar2, request.DocId);
-            var param2 = _infraDal.GetParameter("OutMarkerId", OracleDbType.Varchar2, request.MarkerId);
-            var param3 = _infraDal.GetParameter("MarkerType", OracleDbType.Varchar2, request.MarkerType);
-            var param4 = _infraDal.GetParameter("ForColor", OracleDbType.Varchar2, request.ForColor);
-            var param5 = _infraDal.GetParameter("BackColor", OracleDbType.Varchar2, request.BackColor);
-            var param6 = _infraDal.GetParameter("UserId", OracleDbType.Varchar2, request.UserId);
-            var param7 = _infraDal.GetParameter("LocationX", OracleDbType.Double, request.LocationX);
-            var param8 = _infraDal.GetParameter("LocationY", OracleDbType.Double, request.LocationY);
-            var param9 = _infraDal.GetParameter("Width", OracleDbType.Double, request.Width);
-            var param10 = _infraDal.GetParameter("Height", OracleDbType.Double, request.Height);
+            var param1 = _infraDal.GetParameter("DocId", OracleDbType.Varchar2, request.Marker.DocId);
+            var param2 = _infraDal.GetParameter("OutMarkerId", OracleDbType.Varchar2, request.Marker.MarkerId);
+            var param3 = _infraDal.GetParameter("MarkerType", OracleDbType.Varchar2, request.Marker.MarkerType);
+            var param4 = _infraDal.GetParameter("ForColor", OracleDbType.Varchar2, request.Marker.ForColor);
+            var param5 = _infraDal.GetParameter("BackColor", OracleDbType.Varchar2, request.Marker.BackColor);
+            var param6 = _infraDal.GetParameter("UserId", OracleDbType.Varchar2, request.Marker.UserId);
+            var param7 = _infraDal.GetParameter("LocationX", OracleDbType.Double, request.Marker.LocationX);
+            var param8 = _infraDal.GetParameter("LocationY", OracleDbType.Double, request.Marker.LocationY);
+            var param9 = _infraDal.GetParameter("Width", OracleDbType.Double, request.Marker.Width);
+            var param10 = _infraDal.GetParameter("Height", OracleDbType.Double, request.Marker.Height);
             cmd.Parameters.Add(param1);
             cmd.Parameters.Add(param2);
             cmd.Parameters.Add(param3);
@@ -81,16 +81,16 @@ namespace MarkerDal
                 Connection = _conn,
                 CommandText = "UpdateMarker"
             };
-            var param1 = _infraDal.GetParameter("DocIdn", OracleDbType.Varchar2, request.DocId);
-            var param2 = _infraDal.GetParameter("MarkerIdn", OracleDbType.Varchar2, request.MarkerId);
-            var param3 = _infraDal.GetParameter("MarkerTypen", OracleDbType.Varchar2, request.MarkerType);
-            var param4 = _infraDal.GetParameter("ForColorn", OracleDbType.Varchar2, request.ForColor);
-            var param5 = _infraDal.GetParameter("BackColorn", OracleDbType.Varchar2, request.BackColor);
-            var param6 = _infraDal.GetParameter("UserIdn", OracleDbType.Varchar2, request.UserId);
-            var param7 = _infraDal.GetParameter("LocationXn", OracleDbType.Double, request.LocationX);
-            var param8 = _infraDal.GetParameter("LocationYn", OracleDbType.Double, request.LocationY);
-            var param9 = _infraDal.GetParameter("Widthn", OracleDbType.Double, request.Width);
-            var param10 = _infraDal.GetParameter("Heightn", OracleDbType.Double, request.Height);
+            var param1 = _infraDal.GetParameter("DocIdn", OracleDbType.Varchar2, request.Marker.DocId);
+            var param2 = _infraDal.GetParameter("MarkerIdn", OracleDbType.Varchar2, request.Marker.MarkerId);
+            var param3 = _infraDal.GetParameter("MarkerTypen", OracleDbType.Varchar2, request.Marker.MarkerType);
+            var param4 = _infraDal.GetParameter("ForColorn", OracleDbType.Varchar2, request.Marker.ForColor);
+            var param5 = _infraDal.GetParameter("BackColorn", OracleDbType.Varchar2, request.Marker.BackColor);
+            var param6 = _infraDal.GetParameter("UserIdn", OracleDbType.Varchar2, request.Marker.UserId);
+            var param7 = _infraDal.GetParameter("LocationXn", OracleDbType.Double, request.Marker.LocationX);
+            var param8 = _infraDal.GetParameter("LocationYn", OracleDbType.Double, request.Marker.LocationY);
+            var param9 = _infraDal.GetParameter("Widthn", OracleDbType.Double, request.Marker.Width);
+            var param10 = _infraDal.GetParameter("Heightn", OracleDbType.Double, request.Marker.Height);
             cmd.Parameters.Add(param1);
             cmd.Parameters.Add(param2);
             cmd.Parameters.Add(param3);

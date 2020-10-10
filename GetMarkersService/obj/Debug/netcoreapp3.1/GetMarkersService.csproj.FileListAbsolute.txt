@@ -20,3 +20,4 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetMarker
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetMarkersService\obj\Debug\netcoreapp3.1\GetMarkersService.csproj.CopyComplete
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetMarkersService\obj\Debug\netcoreapp3.1\GetMarkersService.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetMarkersService\obj\Debug\netcoreapp3.1\GetMarkersService.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetMarkersService\obj\Debug\netcoreapp3.1\GetMarkersService.csprojAssemblyReference.cache

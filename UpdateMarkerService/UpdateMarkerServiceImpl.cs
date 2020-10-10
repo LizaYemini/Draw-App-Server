@@ -21,16 +21,7 @@ namespace UpdateMarkerService
                 _dal.UpdateMarker(request);
                 UpdateMarkerResponseOk ret = new UpdateMarkerResponseOk
                 {
-                    DocId = request.DocId,
-                    BackColor = request.BackColor,
-                    ForColor = request.ForColor,
-                    Height = request.Height,
-                    Width = request.Width,
-                    LocationY = request.LocationY,
-                    LocationX = request.LocationX,
-                    MarkerId = request.MarkerId,
-                    MarkerType = request.MarkerType,
-                    UserId = request.UserId
+                    Marker = request.Marker
                 };
                 return ret;
             }

@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qkJxNK8yhhwD8lANNLnPJCBxku/4SAxf8NlIyCsySs+4C8DhEt/LYyd2a8pSMMFWP6nH71zxZxBkQW7IF1Vnrw==",
+  "dgSpecHash": "Ky9n6TfCQRpPiVFdq/lSZdID27sHtN0PcKs0TKx6+8YrPNHxtaYFF5NcnxS4K2P4AUbpMg3rxfi0m9yBh0rGdQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\GetDocumentService\\GetDocumentService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\contracts\\1.0.5\\contracts.1.0.5.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\idmechanism\\1.0.1\\idmechanism.1.0.1.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\infracontracts\\1.0.4\\infracontracts.1.0.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\infracontracts\\1.0.8\\infracontracts.1.0.8.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\odp.netcore\\2.0.12\\odp.netcore.2.0.12.nupkg.sha512"
   ],
   "logs": []
