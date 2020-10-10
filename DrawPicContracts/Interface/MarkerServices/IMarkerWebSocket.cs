@@ -12,9 +12,9 @@ namespace DrawPicContracts.Interface.WebSocket
 
         public Task RemoveConnection(System.Net.WebSockets.WebSocket socket);
 
-        //public Task SendNewMarker(CreateMarkerResponseOk marker);
-
         public Task SendNewMarker(MarkerDto marker);
         public Task SendRemoveMarker(string markerId);
+
+        public Task SendUpdateMarker(MarkerDto marker);
     }
 }

@@ -2,6 +2,7 @@
 using Contracts;
 using DrawPicContracts.DTO;
 using DrawPicContracts.Interface;
+using DrawPicContracts.Interface.WebSocket;
 using InfraContracts.DTO;
 
 namespace RemoveMarkerService
@@ -10,10 +11,11 @@ namespace RemoveMarkerService
     public class RemoveMarkerServiceImpl : IRemoveMarkerService
     {
         private readonly IMarkerDal _dal;
-
-        public RemoveMarkerServiceImpl(IMarkerDal dal)
+        private readonly IMarkerWebSocket _markerWebSocket;
+        public RemoveMarkerServiceImpl(IMarkerDal dal, IMarkerWebSocket markerWebSocket)
         {
             _dal = dal;
+            _markerWebSocket = markerWebSocket;
         }
         public Response RemoveMarker(RemoveMarkerRequest request)
         {
@@ -24,6 +26,9 @@ namespace RemoveMarkerService
                 {
                     MarkerId = request.MarkerId
                 };
+
+                _markerWebSocket.SendRemoveMarker(request.MarkerId);
+
                 return ret;
             }
             catch (Exception ex)

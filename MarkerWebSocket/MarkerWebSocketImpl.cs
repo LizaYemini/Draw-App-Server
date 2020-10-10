@@ -44,15 +44,30 @@ namespace MarkerWebSocket
             string msg = JsonConvert.SerializeObject(response);
             await InfraMessenger.SendAll(msg);
         }
-
-        public Task SendRemoveMarker(string markerId)
+        public async Task SendUpdateMarker(MarkerDto marker)
         {
-            throw new NotImplementedException();
-        }
 
-        public async Task TestSendMsg(String msg)
-        {
+            UpdateMarkerWebSocketResponse response = new UpdateMarkerWebSocketResponse
+            {
+                Marker = marker
+            };
+
+            string msg = JsonConvert.SerializeObject(response);
             await InfraMessenger.SendAll(msg);
         }
+
+
+        public async Task SendRemoveMarker(string markerId)
+        {
+            RemoveMarkerWebSocketResponse response = new RemoveMarkerWebSocketResponse
+            {
+                MarkerId = markerId
+            };
+
+            string msg = JsonConvert.SerializeObject(response);
+            await InfraMessenger.SendAll(msg);
+        }
+
+
     }
 }

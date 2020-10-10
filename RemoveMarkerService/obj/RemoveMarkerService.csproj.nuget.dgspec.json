@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\RemoveMarkerService\\RemoveMarkerService.csproj": {}
+    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\RemoveMarkerService\\RemoveMarkerService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\DrawPicContracts\\DrawPicContracts.csproj": {
+    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\DrawPicContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\DrawPicContracts\\DrawPicContracts.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\DrawPicContracts.csproj",
         "projectName": "DrawPicContracts",
-        "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\DrawPicContracts\\DrawPicContracts.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\DrawPicContracts.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\DrawPicContracts\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\IdMechanism\\IdMechanismPublish": {},
           "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\InfraPublish": {},
           "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\RestAPI\\#5\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -47,7 +46,11 @@
             },
             "InfraContracts": {
               "target": "Package",
-              "version": "[1.0.3, )"
+              "version": "[1.0.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
             },
             "ODP.NetCore": {
               "target": "Package",
@@ -73,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\RemoveMarkerService\\RemoveMarkerService.csproj": {
+    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\RemoveMarkerService\\RemoveMarkerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\RemoveMarkerService\\RemoveMarkerService.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\RemoveMarkerService\\RemoveMarkerService.csproj",
         "projectName": "RemoveMarkerService",
-        "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\RemoveMarkerService\\RemoveMarkerService.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\RemoveMarkerService\\RemoveMarkerService.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\RemoveMarkerService\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\RemoveMarkerService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,7 +94,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\IdMechanism\\IdMechanismPublish": {},
           "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\InfraPublish": {},
           "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\RestAPI\\#5\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -99,8 +101,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\DrawPicContracts\\DrawPicContracts.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\DrawPicContracts\\DrawPicContracts.csproj"
+              "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\DrawPicContracts.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\DrawPicContracts.csproj"
               }
             }
           }

@@ -29,8 +29,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetMarkersService", "..\Get
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDocumentService", "..\..\..\Server2\RemoveDocumentService\RemoveDocumentService.csproj", "{47B53C08-8423-46CE-89BA-046A9580D404}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveMarkerService", "..\..\..\Server2\RemoveMarkerService\RemoveMarkerService.csproj", "{D35A277F-F406-4E94-8C24-FF4C9A64BE48}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveShareService", "..\RemoveShareService\RemoveShareService.csproj", "{C902E699-2FC2-4744-9079-A3B5CB28EECA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShareDal", "..\ShareDal\ShareDal.csproj", "{312899FB-D448-474E-BD18-F1F4E158F239}"
@@ -48,6 +46,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidateService", "..\ValidateService\ValidateService.csproj", "{677BE187-5194-43A7-BFA7-0EF641B6707A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkerWebSocket", "..\MarkerWebSocket\MarkerWebSocket.csproj", "{EB5AAC02-4912-4DA5-90F1-1F29A0C9ADF8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveMarkerService", "..\RemoveMarkerService\RemoveMarkerService.csproj", "{0BD7235D-6382-43A3-8673-B43512DEAF58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -107,10 +107,6 @@ Global
 		{47B53C08-8423-46CE-89BA-046A9580D404}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47B53C08-8423-46CE-89BA-046A9580D404}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47B53C08-8423-46CE-89BA-046A9580D404}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D35A277F-F406-4E94-8C24-FF4C9A64BE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D35A277F-F406-4E94-8C24-FF4C9A64BE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D35A277F-F406-4E94-8C24-FF4C9A64BE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D35A277F-F406-4E94-8C24-FF4C9A64BE48}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C902E699-2FC2-4744-9079-A3B5CB28EECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C902E699-2FC2-4744-9079-A3B5CB28EECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C902E699-2FC2-4744-9079-A3B5CB28EECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -147,6 +143,10 @@ Global
 		{EB5AAC02-4912-4DA5-90F1-1F29A0C9ADF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB5AAC02-4912-4DA5-90F1-1F29A0C9ADF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB5AAC02-4912-4DA5-90F1-1F29A0C9ADF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD7235D-6382-43A3-8673-B43512DEAF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD7235D-6382-43A3-8673-B43512DEAF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD7235D-6382-43A3-8673-B43512DEAF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD7235D-6382-43A3-8673-B43512DEAF58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

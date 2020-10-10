@@ -2,6 +2,7 @@
 using System;
 using Contracts;
 using DrawPicContracts.DTO;
+using DrawPicContracts.Interface.WebSocket;
 using InfraContracts.DTO;
 
 namespace UpdateMarkerService
@@ -10,9 +11,11 @@ namespace UpdateMarkerService
     public class UpdateMarkerServiceImpl : IUpdateMarkerService
     {
         private IMarkerDal _dal;
-        public UpdateMarkerServiceImpl(IMarkerDal dal)
+        private readonly IMarkerWebSocket _markerWebSocket;
+        public UpdateMarkerServiceImpl(IMarkerDal dal, IMarkerWebSocket markerWebSocket)
         {
             _dal = dal;
+            _markerWebSocket = markerWebSocket;
         }
         public Response UpdateMarker(CreateMarkerRequest request)
         {
@@ -23,7 +26,10 @@ namespace UpdateMarkerService
                 {
                     Marker = request.Marker
                 };
+
+                _markerWebSocket.SendUpdateMarker(request.Marker);
                 return ret;
+
             }
             catch (Exception ex)
             {
