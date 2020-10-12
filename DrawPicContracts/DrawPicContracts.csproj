@@ -14,8 +14,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\RestAPI\infra\DIContracts\DIContracts.csproj" />
-    <ProjectReference Include="..\..\..\Infra\InfraContracts\InfraContracts.csproj" />
+    <ProjectReference Include="..\DIContracts\DIContracts.csproj" />
+    <ProjectReference Include="..\DI\DI.csproj" />
+    <ProjectReference Include="..\InfraContracts\InfraContracts.csproj" />
   </ItemGroup>
 
 </Project>

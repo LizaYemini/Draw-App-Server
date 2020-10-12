@@ -7,12 +7,3 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraContracts\obj\Debu
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraContracts\obj\Debug\netcoreapp3.1\InfraContracts.pdb
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraContracts\obj\Debug\netcoreapp3.1\InfraContracts.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraContracts\obj\Debug\netcoreapp3.1\InfraContracts.csprojAssemblyReference.cache
-C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\InfraContracts\bin\Debug\netcoreapp3.1\InfraContracts.deps.json
-C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\InfraContracts\bin\Debug\netcoreapp3.1\InfraContracts.dll
-C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\InfraContracts\bin\Debug\netcoreapp3.1\InfraContracts.pdb
-C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\InfraContracts\obj\Debug\netcoreapp3.1\InfraContracts.csprojAssemblyReference.cache
-C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\InfraContracts\obj\Debug\netcoreapp3.1\InfraContracts.AssemblyInfoInputs.cache
-C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\InfraContracts\obj\Debug\netcoreapp3.1\InfraContracts.AssemblyInfo.cs
-C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\InfraContracts\obj\Debug\netcoreapp3.1\InfraContracts.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\InfraContracts\obj\Debug\netcoreapp3.1\InfraContracts.dll
-C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\InfraContracts\obj\Debug\netcoreapp3.1\InfraContracts.pdb

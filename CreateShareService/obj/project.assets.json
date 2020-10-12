@@ -1053,6 +1053,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "DI": "1.0.0",
           "DIContracts": "1.0.0",
           "InfraContracts": "1.0.8",
           "Newtonsoft.Json": "12.0.3",
@@ -3660,13 +3661,13 @@
     },
     "DI/1.0.0": {
       "type": "project",
-      "path": "../../../../RestAPI/infra/DI/DI.csproj",
-      "msbuildProject": "../../../../RestAPI/infra/DI/DI.csproj"
+      "path": "../DI/DI.csproj",
+      "msbuildProject": "../DI/DI.csproj"
     },
     "DIContracts/1.0.0": {
       "type": "project",
-      "path": "../../../../RestAPI/infra/DIContracts/DIContracts.csproj",
-      "msbuildProject": "../../../../RestAPI/infra/DIContracts/DIContracts.csproj"
+      "path": "../DIContracts/DIContracts.csproj",
+      "msbuildProject": "../DIContracts/DIContracts.csproj"
     },
     "DrawPicApp/1.0.0": {
       "type": "project",
@@ -3680,8 +3681,8 @@
     },
     "InfraContracts/1.0.8": {
       "type": "project",
-      "path": "../../../Infra/InfraContracts/InfraContracts.csproj",
-      "msbuildProject": "../../../Infra/InfraContracts/InfraContracts.csproj"
+      "path": "../InfraContracts/InfraContracts.csproj",
+      "msbuildProject": "../InfraContracts/InfraContracts.csproj"
     },
     "InfraDal/1.0.0": {
       "type": "project",
