@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yNB5OqbPvbDzdHbNHJX18aq/BfIIxWpqVI+a52T+OQvn44Mq7d7k7WQWvkmKYgCA22RBDmYXfnS2FBjWRfuC+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DIContracts\\DIContracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

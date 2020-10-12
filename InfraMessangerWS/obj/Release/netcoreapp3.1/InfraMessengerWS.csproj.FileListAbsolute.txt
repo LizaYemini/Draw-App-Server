@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraMessangerWS\bin\Release\netcoreapp3.1\InfraMessengerWS.deps.json
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraMessangerWS\bin\Release\netcoreapp3.1\InfraMessengerWS.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraMessangerWS\bin\Release\netcoreapp3.1\InfraMessengerWS.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraMessangerWS\bin\Release\netcoreapp3.1\InfraContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraMessangerWS\bin\Release\netcoreapp3.1\InfraContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraMessangerWS\obj\Release\netcoreapp3.1\InfraMessengerWS.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraMessangerWS\obj\Release\netcoreapp3.1\InfraMessengerWS.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraMessangerWS\obj\Release\netcoreapp3.1\InfraMessengerWS.AssemblyInfo.cs
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraMessangerWS\obj\Release\netcoreapp3.1\InfraMessengerWS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraMessangerWS\obj\Release\netcoreapp3.1\InfraMessengerWS.csproj.CopyComplete
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraMessangerWS\obj\Release\netcoreapp3.1\InfraMessengerWS.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraMessangerWS\obj\Release\netcoreapp3.1\InfraMessengerWS.pdb

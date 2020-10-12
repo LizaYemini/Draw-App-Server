@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraContracts\bin\Release\netcoreapp3.1\InfraContracts.deps.json
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraContracts\bin\Release\netcoreapp3.1\InfraContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraContracts\bin\Release\netcoreapp3.1\InfraContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraContracts\obj\Release\netcoreapp3.1\InfraContracts.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraContracts\obj\Release\netcoreapp3.1\InfraContracts.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraContracts\obj\Release\netcoreapp3.1\InfraContracts.AssemblyInfo.cs
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraContracts\obj\Release\netcoreapp3.1\InfraContracts.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraContracts\obj\Release\netcoreapp3.1\InfraContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraContracts\obj\Release\netcoreapp3.1\InfraContracts.pdb

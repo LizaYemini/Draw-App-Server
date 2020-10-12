@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>InfraMessengerWS</id>
+    <version>1.0.0</version>
+    <authors>InfraMessengerWS</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="InfraContracts" version="1.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Infra\InfraMessangerWS\bin\Debug\netcoreapp3.1\InfraMessengerWS.dll" target="lib\netcoreapp3.1\InfraMessengerWS.dll" />
+  </files>
+</package>
