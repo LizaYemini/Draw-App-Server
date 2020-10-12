@@ -171,12 +171,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "IdMechanism": {
-              "target": "Package",
-              "version": "[1.0.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
