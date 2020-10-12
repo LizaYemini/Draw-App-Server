@@ -22,3 +22,7 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateDoc
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateDocumentService\obj\Debug\netcoreapp3.1\UpdateDocumentService.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateDocumentService\obj\Debug\netcoreapp3.1\UpdateDocumentService.pdb
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateDocumentService\obj\Debug\netcoreapp3.1\UpdateDocumentService.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateDocumentService\bin\Debug\netcoreapp3.1\DIContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateDocumentService\bin\Debug\netcoreapp3.1\InfraContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateDocumentService\bin\Debug\netcoreapp3.1\DIContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateDocumentService\bin\Debug\netcoreapp3.1\InfraContracts.pdb

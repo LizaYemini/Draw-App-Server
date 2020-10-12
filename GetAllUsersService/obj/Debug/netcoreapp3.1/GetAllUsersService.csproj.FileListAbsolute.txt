@@ -21,3 +21,7 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllUse
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllUsersService\obj\Debug\netcoreapp3.1\GetAllUsersService.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllUsersService\obj\Debug\netcoreapp3.1\GetAllUsersService.pdb
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllUsersService\obj\Debug\netcoreapp3.1\GetAllUsersService.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllUsersService\bin\Debug\netcoreapp3.1\DIContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllUsersService\bin\Debug\netcoreapp3.1\InfraContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllUsersService\bin\Debug\netcoreapp3.1\DIContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllUsersService\bin\Debug\netcoreapp3.1\InfraContracts.pdb

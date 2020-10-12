@@ -14,14 +14,6 @@
           "GetDocumentService.dll": {}
         }
       },
-      "Contracts/1.0.5": {
-        "runtime": {
-          "lib/netcoreapp3.1/Contracts.dll": {
-            "assemblyVersion": "1.0.5.0",
-            "fileVersion": "1.0.5.0"
-          }
-        }
-      },
       "IdMechanism/1.0.1": {
         "runtime": {
           "lib/netcoreapp3.1/IdMechanism.dll": {
@@ -30,15 +22,11 @@
           }
         }
       },
-      "InfraContracts/1.0.8": {
-        "dependencies": {
-          "Newtonsoft.Json": "12.0.3",
-          "ODP.NetCore": "2.0.12"
-        },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.5": {
         "runtime": {
-          "lib/netcoreapp3.1/InfraContracts.dll": {
-            "assemblyVersion": "1.0.8.0",
-            "fileVersion": "1.0.8.0"
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "3.1.5.0",
+            "fileVersion": "3.100.520.27009"
           }
         }
       },
@@ -58,6 +46,14 @@
           }
         }
       },
+      "DIContracts/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.5"
+        },
+        "runtime": {
+          "DIContracts.dll": {}
+        }
+      },
       "DocumentsDal/1.0.0": {
         "dependencies": {
           "DrawPicContracts": "1.0.0",
@@ -69,13 +65,22 @@
       },
       "DrawPicContracts/1.0.0": {
         "dependencies": {
-          "Contracts": "1.0.5",
+          "DIContracts": "1.0.0",
           "InfraContracts": "1.0.8",
           "Newtonsoft.Json": "12.0.3",
           "ODP.NetCore": "2.0.12"
         },
         "runtime": {
           "DrawPicContracts.dll": {}
+        }
+      },
+      "InfraContracts/1.0.8": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "ODP.NetCore": "2.0.12"
+        },
+        "runtime": {
+          "InfraContracts.dll": {}
         }
       }
     }
@@ -86,13 +91,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Contracts/1.0.5": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-CyAXkwPti+uPYjKAmUgJktwBtKrkAjNBWvoWFNIK9p0pZAh7Aa3TsKbXX1P8pKjhU8PLS+VP8nzH88GdZplm+A==",
-      "path": "contracts/1.0.5",
-      "hashPath": "contracts.1.0.5.nupkg.sha512"
-    },
     "IdMechanism/1.0.1": {
       "type": "package",
       "serviceable": true,
@@ -100,12 +98,12 @@
       "path": "idmechanism/1.0.1",
       "hashPath": "idmechanism.1.0.1.nupkg.sha512"
     },
-    "InfraContracts/1.0.8": {
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.5": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ucxNK3JWWul6ATZpVlEHDeIQoeX55OoNo++AjSs+/C3OtIthc2zSD6L0L0j4zsHDIGS675r8ZeFXyNWOLdRuSw==",
-      "path": "infracontracts/1.0.8",
-      "hashPath": "infracontracts.1.0.8.nupkg.sha512"
+      "sha512": "sha512-2VSCj2TZPMdeEi279Lawi6qJQu4+sEWizSOYrhY6hapyS1jxn1jVUZT1Ugv68bya+x8+3lD4+RqhUZql9PhISQ==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.5",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512"
     },
     "Newtonsoft.Json/12.0.3": {
       "type": "package",
@@ -121,12 +119,22 @@
       "path": "odp.netcore/2.0.12",
       "hashPath": "odp.netcore.2.0.12.nupkg.sha512"
     },
+    "DIContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "DocumentsDal/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "DrawPicContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InfraContracts/1.0.8": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -14,49 +14,6 @@
           "CreateShareService.dll": {}
         }
       },
-      "Contracts/1.0.5": {
-        "runtime": {
-          "lib/netcoreapp3.1/Contracts.dll": {
-            "assemblyVersion": "1.0.5.0",
-            "fileVersion": "1.0.5.0"
-          }
-        }
-      },
-      "DI/1.0.3": {
-        "dependencies": {
-          "Contracts": "1.0.5",
-          "Microsoft.Extensions.DependencyInjection": "3.1.5"
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/DI.dll": {
-            "assemblyVersion": "1.0.3.0",
-            "fileVersion": "1.0.3.0"
-          }
-        }
-      },
-      "InfraContracts/1.0.8": {
-        "dependencies": {
-          "Newtonsoft.Json": "12.0.3",
-          "ODP.NetCore": "2.0.12"
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/InfraContracts.dll": {
-            "assemblyVersion": "1.0.8.0",
-            "fileVersion": "1.0.8.0"
-          }
-        }
-      },
-      "InfraDal/1.0.0": {
-        "dependencies": {
-          "InfraContracts": "1.0.8"
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/InfraDal.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
       "InfraMessengerWS/1.0.2": {
         "dependencies": {
           "InfraContracts": "1.0.8"
@@ -607,9 +564,27 @@
         }
       },
       "System.Threading.Tasks.Extensions/4.5.1": {},
+      "DI/1.0.0": {
+        "dependencies": {
+          "DIContracts": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "3.1.5",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.5"
+        },
+        "runtime": {
+          "DI.dll": {}
+        }
+      },
+      "DIContracts/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.5"
+        },
+        "runtime": {
+          "DIContracts.dll": {}
+        }
+      },
       "DrawPicApp/1.0.0": {
         "dependencies": {
-          "DI": "1.0.3",
+          "DI": "1.0.0",
           "DrawPicContracts": "1.0.0",
           "InfraDal": "1.0.0",
           "InfraMessengerWS": "1.0.2",
@@ -627,13 +602,30 @@
       },
       "DrawPicContracts/1.0.0": {
         "dependencies": {
-          "Contracts": "1.0.5",
+          "DIContracts": "1.0.0",
           "InfraContracts": "1.0.8",
           "Newtonsoft.Json": "12.0.3",
           "ODP.NetCore": "2.0.12"
         },
         "runtime": {
           "DrawPicContracts.dll": {}
+        }
+      },
+      "InfraContracts/1.0.8": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "ODP.NetCore": "2.0.12"
+        },
+        "runtime": {
+          "InfraContracts.dll": {}
+        }
+      },
+      "InfraDal/1.0.0": {
+        "dependencies": {
+          "InfraContracts": "1.0.8"
+        },
+        "runtime": {
+          "InfraDal.dll": {}
         }
       }
     }
@@ -643,34 +635,6 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
-    },
-    "Contracts/1.0.5": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-CyAXkwPti+uPYjKAmUgJktwBtKrkAjNBWvoWFNIK9p0pZAh7Aa3TsKbXX1P8pKjhU8PLS+VP8nzH88GdZplm+A==",
-      "path": "contracts/1.0.5",
-      "hashPath": "contracts.1.0.5.nupkg.sha512"
-    },
-    "DI/1.0.3": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-mxvEvBN4dJ2hXcqKXpwfs6p5pdKep/Q6rt8EIfucs2O44jeSnz9a1+/6jndJNmuMndV494SwFx/qxRLbvF+pJw==",
-      "path": "di/1.0.3",
-      "hashPath": "di.1.0.3.nupkg.sha512"
-    },
-    "InfraContracts/1.0.8": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-ucxNK3JWWul6ATZpVlEHDeIQoeX55OoNo++AjSs+/C3OtIthc2zSD6L0L0j4zsHDIGS675r8ZeFXyNWOLdRuSw==",
-      "path": "infracontracts/1.0.8",
-      "hashPath": "infracontracts.1.0.8.nupkg.sha512"
-    },
-    "InfraDal/1.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-bqswmb/aRsQZ/cGuOpy117J3zabpXAps+WpVNTmbUB2nmkZbdsf9fL/EUqZC7+LPsBHsCs0x5WntE9GuwSoeRg==",
-      "path": "infradal/1.0.0",
-      "hashPath": "infradal.1.0.0.nupkg.sha512"
     },
     "InfraMessengerWS/1.0.2": {
       "type": "package",
@@ -1204,12 +1168,32 @@
       "path": "system.threading.tasks.extensions/4.5.1",
       "hashPath": "system.threading.tasks.extensions.4.5.1.nupkg.sha512"
     },
+    "DI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DIContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "DrawPicApp/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "DrawPicContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InfraContracts/1.0.8": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InfraDal/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

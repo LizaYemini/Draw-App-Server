@@ -1,5 +1,5 @@
 ﻿using System;
-using Contracts;
+using DIContracts;
 using DrawPicContracts.DTO;
 using DrawPicContracts.Interface;
 using InfraContracts.DTO;

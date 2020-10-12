@@ -21,3 +21,7 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllDoc
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllDocumentsService\obj\Debug\netcoreapp3.1\GetAllDocumentsService.csproj.CopyComplete
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllDocumentsService\obj\Debug\netcoreapp3.1\GetAllDocumentsService.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllDocumentsService\obj\Debug\netcoreapp3.1\GetAllDocumentsService.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllDocumentsService\bin\Debug\netcoreapp3.1\DIContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllDocumentsService\bin\Debug\netcoreapp3.1\InfraContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllDocumentsService\bin\Debug\netcoreapp3.1\DIContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetAllDocumentsService\bin\Debug\netcoreapp3.1\InfraContracts.pdb

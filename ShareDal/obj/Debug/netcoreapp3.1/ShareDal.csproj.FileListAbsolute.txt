@@ -22,3 +22,7 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDal\
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDal\obj\Debug\netcoreapp3.1\ShareDal.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDal\obj\Debug\netcoreapp3.1\ShareDal.pdb
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDal\obj\Debug\netcoreapp3.1\ShareDal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDal\bin\Debug\netcoreapp3.1\DIContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDal\bin\Debug\netcoreapp3.1\InfraContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDal\bin\Debug\netcoreapp3.1\DIContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDal\bin\Debug\netcoreapp3.1\InfraContracts.pdb

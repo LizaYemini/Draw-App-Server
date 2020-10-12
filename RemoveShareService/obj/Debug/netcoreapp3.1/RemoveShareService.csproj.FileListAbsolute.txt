@@ -21,3 +21,7 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\RemoveSha
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\RemoveShareService\obj\Debug\netcoreapp3.1\RemoveShareService.csproj.CopyComplete
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\RemoveShareService\obj\Debug\netcoreapp3.1\RemoveShareService.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\RemoveShareService\obj\Debug\netcoreapp3.1\RemoveShareService.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\RemoveShareService\bin\Debug\netcoreapp3.1\DIContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\RemoveShareService\bin\Debug\netcoreapp3.1\InfraContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\RemoveShareService\bin\Debug\netcoreapp3.1\DIContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\RemoveShareService\bin\Debug\netcoreapp3.1\InfraContracts.pdb

@@ -1,7 +1,7 @@
 ﻿using DrawPicContracts.DTO;
 using DrawPicContracts.Interface;
 using System;
-using Contracts;
+using DIContracts;
 using InfraContracts.DTO;
 
 namespace SignUpService

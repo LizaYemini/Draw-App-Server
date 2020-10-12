@@ -2,53 +2,6 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Contracts/1.0.5": {
-        "type": "package",
-        "compile": {
-          "lib/netcoreapp3.1/Contracts.dll": {}
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/Contracts.dll": {}
-        }
-      },
-      "DI/1.0.3": {
-        "type": "package",
-        "dependencies": {
-          "Contracts": "1.0.3",
-          "Microsoft.Extensions.DependencyInjection": "3.1.5"
-        },
-        "compile": {
-          "lib/netcoreapp3.1/DI.dll": {}
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/DI.dll": {}
-        }
-      },
-      "InfraContracts/1.0.8": {
-        "type": "package",
-        "dependencies": {
-          "Newtonsoft.Json": "12.0.3",
-          "ODP.NetCore": "2.0.12"
-        },
-        "compile": {
-          "lib/netcoreapp3.1/InfraContracts.dll": {}
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/InfraContracts.dll": {}
-        }
-      },
-      "InfraDal/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "InfraContracts": "1.0.0"
-        },
-        "compile": {
-          "lib/netcoreapp3.1/InfraDal.dll": {}
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/InfraDal.dll": {}
-        }
-      },
       "InfraMessengerWS/1.0.2": {
         "type": "package",
         "dependencies": {
@@ -1042,11 +995,39 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
+      "DI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DIContracts": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "3.1.5",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.5"
+        },
+        "compile": {
+          "bin/placeholder/DI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DI.dll": {}
+        }
+      },
+      "DIContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.5"
+        },
+        "compile": {
+          "bin/placeholder/DIContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DIContracts.dll": {}
+        }
+      },
       "DrawPicApp/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "DI": "1.0.3",
+          "DI": "1.0.0",
           "DrawPicContracts": "1.0.0",
           "InfraDal": "1.0.0",
           "InfraMessengerWS": "1.0.2",
@@ -1072,7 +1053,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Contracts": "1.0.5",
+          "DIContracts": "1.0.0",
           "InfraContracts": "1.0.8",
           "Newtonsoft.Json": "12.0.3",
           "ODP.NetCore": "2.0.12"
@@ -1083,54 +1064,37 @@
         "runtime": {
           "bin/placeholder/DrawPicContracts.dll": {}
         }
+      },
+      "InfraContracts/1.0.8": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "ODP.NetCore": "2.0.12"
+        },
+        "compile": {
+          "bin/placeholder/InfraContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InfraContracts.dll": {}
+        }
+      },
+      "InfraDal/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "InfraContracts": "1.0.8"
+        },
+        "compile": {
+          "bin/placeholder/InfraDal.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InfraDal.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "Contracts/1.0.5": {
-      "sha512": "CyAXkwPti+uPYjKAmUgJktwBtKrkAjNBWvoWFNIK9p0pZAh7Aa3TsKbXX1P8pKjhU8PLS+VP8nzH88GdZplm+A==",
-      "type": "package",
-      "path": "contracts/1.0.5",
-      "files": [
-        ".nupkg.metadata",
-        "contracts.1.0.5.nupkg.sha512",
-        "contracts.nuspec",
-        "lib/netcoreapp3.1/Contracts.dll"
-      ]
-    },
-    "DI/1.0.3": {
-      "sha512": "mxvEvBN4dJ2hXcqKXpwfs6p5pdKep/Q6rt8EIfucs2O44jeSnz9a1+/6jndJNmuMndV494SwFx/qxRLbvF+pJw==",
-      "type": "package",
-      "path": "di/1.0.3",
-      "files": [
-        ".nupkg.metadata",
-        "di.1.0.3.nupkg.sha512",
-        "di.nuspec",
-        "lib/netcoreapp3.1/DI.dll"
-      ]
-    },
-    "InfraContracts/1.0.8": {
-      "sha512": "ucxNK3JWWul6ATZpVlEHDeIQoeX55OoNo++AjSs+/C3OtIthc2zSD6L0L0j4zsHDIGS675r8ZeFXyNWOLdRuSw==",
-      "type": "package",
-      "path": "infracontracts/1.0.8",
-      "files": [
-        ".nupkg.metadata",
-        "infracontracts.1.0.8.nupkg.sha512",
-        "infracontracts.nuspec",
-        "lib/netcoreapp3.1/InfraContracts.dll"
-      ]
-    },
-    "InfraDal/1.0.0": {
-      "sha512": "bqswmb/aRsQZ/cGuOpy117J3zabpXAps+WpVNTmbUB2nmkZbdsf9fL/EUqZC7+LPsBHsCs0x5WntE9GuwSoeRg==",
-      "type": "package",
-      "path": "infradal/1.0.0",
-      "files": [
-        ".nupkg.metadata",
-        "infradal.1.0.0.nupkg.sha512",
-        "infradal.nuspec",
-        "lib/netcoreapp3.1/InfraDal.dll"
-      ]
-    },
     "InfraMessengerWS/1.0.2": {
       "sha512": "5F/wuwwdvGA8uOgSak37gbWEaEZMdgIzzMQeXkDh28ve2uSdzi7LFxUSdJu8DVDG0Jj2+3OxB5Pzx6/SZ4rxLA==",
       "type": "package",
@@ -3694,6 +3658,16 @@
         "version.txt"
       ]
     },
+    "DI/1.0.0": {
+      "type": "project",
+      "path": "../../../../RestAPI/infra/DI/DI.csproj",
+      "msbuildProject": "../../../../RestAPI/infra/DI/DI.csproj"
+    },
+    "DIContracts/1.0.0": {
+      "type": "project",
+      "path": "../../../../RestAPI/infra/DIContracts/DIContracts.csproj",
+      "msbuildProject": "../../../../RestAPI/infra/DIContracts/DIContracts.csproj"
+    },
     "DrawPicApp/1.0.0": {
       "type": "project",
       "path": "../DrawPicApp/DrawPicApp.csproj",
@@ -3703,6 +3677,16 @@
       "type": "project",
       "path": "../DrawPicContracts/DrawPicContracts.csproj",
       "msbuildProject": "../DrawPicContracts/DrawPicContracts.csproj"
+    },
+    "InfraContracts/1.0.8": {
+      "type": "project",
+      "path": "../../../Infra/InfraContracts/InfraContracts.csproj",
+      "msbuildProject": "../../../Infra/InfraContracts/InfraContracts.csproj"
+    },
+    "InfraDal/1.0.0": {
+      "type": "project",
+      "path": "../../../Infra/InfraDal/InfraDal.csproj",
+      "msbuildProject": "../../../Infra/InfraDal/InfraDal.csproj"
     }
   },
   "projectFileDependencyGroups": {

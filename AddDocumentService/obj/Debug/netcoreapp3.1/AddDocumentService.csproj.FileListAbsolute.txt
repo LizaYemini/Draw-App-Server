@@ -22,3 +22,7 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocume
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentService\obj\Debug\netcoreapp3.1\AddDocumentService.csproj.CopyComplete
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentService\obj\Debug\netcoreapp3.1\AddDocumentService.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentService\obj\Debug\netcoreapp3.1\AddDocumentService.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentService\bin\Debug\netcoreapp3.1\DIContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentService\bin\Debug\netcoreapp3.1\InfraContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentService\bin\Debug\netcoreapp3.1\DIContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentService\bin\Debug\netcoreapp3.1\InfraContracts.pdb

@@ -2,25 +2,22 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Contracts/1.0.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.5": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp3.1/Contracts.dll": {}
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp3.1/Contracts.dll": {}
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         }
       },
-      "InfraContracts/1.0.3": {
+      "Newtonsoft.Json/12.0.3": {
         "type": "package",
-        "dependencies": {
-          "ODP.NetCore": "2.0.12"
-        },
         "compile": {
-          "lib/netcoreapp3.1/InfraContracts.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp3.1/InfraContracts.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
       "ODP.NetCore/2.0.12": {
@@ -32,12 +29,26 @@
           "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
         }
       },
+      "DIContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.5"
+        },
+        "compile": {
+          "bin/placeholder/DIContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DIContracts.dll": {}
+        }
+      },
       "DrawPicContracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Contracts": "1.0.5",
-          "InfraContracts": "1.0.3",
+          "DIContracts": "1.0.0",
+          "InfraContracts": "1.0.8",
+          "Newtonsoft.Json": "12.0.3",
           "ODP.NetCore": "2.0.12"
         },
         "compile": {
@@ -46,30 +57,67 @@
         "runtime": {
           "bin/placeholder/DrawPicContracts.dll": {}
         }
+      },
+      "InfraContracts/1.0.8": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "ODP.NetCore": "2.0.12"
+        },
+        "compile": {
+          "bin/placeholder/InfraContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InfraContracts.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "Contracts/1.0.5": {
-      "sha512": "CyAXkwPti+uPYjKAmUgJktwBtKrkAjNBWvoWFNIK9p0pZAh7Aa3TsKbXX1P8pKjhU8PLS+VP8nzH88GdZplm+A==",
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.5": {
+      "sha512": "2VSCj2TZPMdeEi279Lawi6qJQu4+sEWizSOYrhY6hapyS1jxn1jVUZT1Ugv68bya+x8+3lD4+RqhUZql9PhISQ==",
       "type": "package",
-      "path": "contracts/1.0.5",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.5",
       "files": [
         ".nupkg.metadata",
-        "contracts.1.0.5.nupkg.sha512",
-        "contracts.nuspec",
-        "lib/netcoreapp3.1/Contracts.dll"
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec"
       ]
     },
-    "InfraContracts/1.0.3": {
-      "sha512": "1hV6PP7bPy5ku/iMLhtch8CKIjOOg+hYnxTsSPIXOaTf4EeVeVZy2/mjgd5pdFDOvXIRSOsCovdDshyN6hXNLg==",
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
       "type": "package",
-      "path": "infracontracts/1.0.3",
+      "path": "newtonsoft.json/12.0.3",
       "files": [
         ".nupkg.metadata",
-        "infracontracts.1.0.3.nupkg.sha512",
-        "infracontracts.nuspec",
-        "lib/netcoreapp3.1/InfraContracts.dll"
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
       ]
     },
     "ODP.NetCore/2.0.12": {
@@ -84,10 +132,20 @@
         "odp.netcore.nuspec"
       ]
     },
+    "DIContracts/1.0.0": {
+      "type": "project",
+      "path": "../../../../RestAPI/infra/DIContracts/DIContracts.csproj",
+      "msbuildProject": "../../../../RestAPI/infra/DIContracts/DIContracts.csproj"
+    },
     "DrawPicContracts/1.0.0": {
       "type": "project",
       "path": "../DrawPicContracts/DrawPicContracts.csproj",
       "msbuildProject": "../DrawPicContracts/DrawPicContracts.csproj"
+    },
+    "InfraContracts/1.0.8": {
+      "type": "project",
+      "path": "../../../Infra/InfraContracts/InfraContracts.csproj",
+      "msbuildProject": "../../../Infra/InfraContracts/InfraContracts.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -101,11 +159,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\RemoveDocumentService\\RemoveDocumentService.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\RemoveDocumentService\\RemoveDocumentService.csproj",
       "projectName": "RemoveDocumentService",
-      "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\RemoveDocumentService\\RemoveDocumentService.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\RemoveDocumentService\\RemoveDocumentService.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\RemoveDocumentService\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\RemoveDocumentService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -116,7 +174,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\IdMechanism\\IdMechanismPublish": {},
         "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\InfraPublish": {},
         "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\RestAPI\\#5\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
@@ -124,8 +181,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\DrawPicContracts\\DrawPicContracts.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\DrawPicContracts\\DrawPicContracts.csproj"
+            "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\DrawPicContracts.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\DrawPicContracts.csproj"
             }
           }
         }

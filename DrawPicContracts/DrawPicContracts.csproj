@@ -9,10 +9,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Contracts" Version="1.0.5" />
-    <PackageReference Include="InfraContracts" Version="1.0.8" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
     <PackageReference Include="ODP.NetCore" Version="2.0.12" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\RestAPI\infra\DIContracts\DIContracts.csproj" />
+    <ProjectReference Include="..\..\..\Infra\InfraContracts\InfraContracts.csproj" />
   </ItemGroup>
 
 </Project>

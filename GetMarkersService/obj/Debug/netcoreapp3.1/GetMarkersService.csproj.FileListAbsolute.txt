@@ -21,3 +21,7 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetMarker
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetMarkersService\obj\Debug\netcoreapp3.1\GetMarkersService.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetMarkersService\obj\Debug\netcoreapp3.1\GetMarkersService.pdb
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetMarkersService\obj\Debug\netcoreapp3.1\GetMarkersService.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetMarkersService\bin\Debug\netcoreapp3.1\DIContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetMarkersService\bin\Debug\netcoreapp3.1\InfraContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetMarkersService\bin\Debug\netcoreapp3.1\DIContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\GetMarkersService\bin\Debug\netcoreapp3.1\InfraContracts.pdb

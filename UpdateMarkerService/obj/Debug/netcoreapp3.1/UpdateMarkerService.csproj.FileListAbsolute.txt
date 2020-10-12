@@ -21,3 +21,7 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateMar
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateMarkerService\obj\Debug\netcoreapp3.1\UpdateMarkerService.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateMarkerService\obj\Debug\netcoreapp3.1\UpdateMarkerService.pdb
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateMarkerService\obj\Debug\netcoreapp3.1\UpdateMarkerService.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateMarkerService\bin\Debug\netcoreapp3.1\DIContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateMarkerService\bin\Debug\netcoreapp3.1\InfraContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateMarkerService\bin\Debug\netcoreapp3.1\DIContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateMarkerService\bin\Debug\netcoreapp3.1\InfraContracts.pdb

@@ -7,7 +7,6 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicAp
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\DrawPicApp.runtimeconfig.dev.json
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\DrawPicApp.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\DrawPicApp.pdb
-C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\Contracts.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\DI.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\InfraContracts.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\InfraDal.dll
@@ -36,5 +35,10 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicAp
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\InfraDal.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\InfraContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\DIContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\DIContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\DI.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.MvcApplicationPartsAssemblyInfo.cs

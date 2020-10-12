@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\RemoveDocumentService\\RemoveDocumentService.csproj": {}
+    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\RemoveDocumentService\\RemoveDocumentService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\DrawPicContracts\\DrawPicContracts.csproj": {
+    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\DrawPicContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\DrawPicContracts\\DrawPicContracts.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\DrawPicContracts.csproj",
         "projectName": "DrawPicContracts",
-        "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\DrawPicContracts\\DrawPicContracts.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\DrawPicContracts.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\DrawPicContracts\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,14 +22,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\IdMechanism\\IdMechanismPublish": {},
           "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\InfraPublish": {},
           "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\RestAPI\\#5\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Infra\\InfraContracts\\InfraContracts.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Infra\\InfraContracts\\InfraContracts.csproj"
+              },
+              "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\RestAPI\\infra\\DIContracts\\DIContracts.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\RestAPI\\infra\\DIContracts\\DIContracts.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -41,13 +47,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "Contracts": {
+            "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[1.0.5, )"
-            },
-            "InfraContracts": {
-              "target": "Package",
-              "version": "[1.0.3, )"
+              "version": "[12.0.3, )"
             },
             "ODP.NetCore": {
               "target": "Package",
@@ -73,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\RemoveDocumentService\\RemoveDocumentService.csproj": {
+    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\RemoveDocumentService\\RemoveDocumentService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\RemoveDocumentService\\RemoveDocumentService.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\RemoveDocumentService\\RemoveDocumentService.csproj",
         "projectName": "RemoveDocumentService",
-        "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\RemoveDocumentService\\RemoveDocumentService.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\RemoveDocumentService\\RemoveDocumentService.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\RemoveDocumentService\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\RemoveDocumentService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,7 +93,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\IdMechanism\\IdMechanismPublish": {},
           "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\InfraPublish": {},
           "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\RestAPI\\#5\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -99,8 +100,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\DrawPicContracts\\DrawPicContracts.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Server2\\DrawPicContracts\\DrawPicContracts.csproj"
+              "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\DrawPicContracts.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\DrawPicContracts.csproj"
               }
             }
           }
@@ -113,6 +114,130 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Infra\\InfraContracts\\InfraContracts.csproj": {
+      "version": "1.0.8",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Infra\\InfraContracts\\InfraContracts.csproj",
+        "projectName": "InfraContracts",
+        "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Infra\\InfraContracts\\InfraContracts.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Infra\\InfraContracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\InfraPublish": {},
+          "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\RestAPI\\#5\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "ODP.NetCore": {
+              "target": "Package",
+              "version": "[2.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\RestAPI\\infra\\DIContracts\\DIContracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\RestAPI\\infra\\DIContracts\\DIContracts.csproj",
+        "projectName": "DIContracts",
+        "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\RestAPI\\infra\\DIContracts\\DIContracts.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\RestAPI\\infra\\DIContracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\InfraPublish": {},
+          "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\RestAPI\\#5\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

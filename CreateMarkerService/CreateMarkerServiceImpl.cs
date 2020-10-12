@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Text;
-using Contracts;
+using DIContracts;
 using DrawPicContracts.DTO;
 using DrawPicContracts.Interface;
 using DrawPicContracts.Interface.WebSocket;

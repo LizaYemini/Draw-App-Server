@@ -2,8 +2,8 @@
 using DrawPicContracts.Interface;
 using InfraContracts.DTO;
 using System;
-using Contracts;
 using System.Text;
+using DIContracts;
 
 namespace AddDocumentService
 {

@@ -3,7 +3,7 @@ using System.Net.WebSockets;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using Contracts;
+using DIContracts;
 using DrawPicContracts.DTO;
 using DrawPicContracts.Interface.WebSocket;
 using InfraContracts.Interfaces;

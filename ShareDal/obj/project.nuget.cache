@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "SB+LOUYOnztSqJ1VLhvFVnE/zGydAsNi1IUXcWVrxQexUwsNqY/WtRJnG102jrfVW5pF8AQLBHZNQL6aSY1BVQ==",
+  "dgSpecHash": "WOSpGTkb+v1k7Zi7JsUjtN5YxvXiAZSy5I6KxCYTG8E2pDwSk92SgdkU/k/JYl/XTKxfJvPZz/xZIWEDk50UmA==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\ShareDal\\ShareDal.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\contracts\\1.0.5\\contracts.1.0.5.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\infracontracts\\1.0.8\\infracontracts.1.0.8.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\odp.netcore\\2.0.12\\odp.netcore.2.0.12.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\odp.netcore\\2.0.12\\odp.netcore.2.0.12.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\infracontracts\\1.0.8\\infracontracts.1.0.8.nupkg.sha512"
   ],
   "logs": []
 }

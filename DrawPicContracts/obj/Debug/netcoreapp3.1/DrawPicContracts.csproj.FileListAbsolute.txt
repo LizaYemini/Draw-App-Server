@@ -16,3 +16,8 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicCo
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicContracts\obj\Debug\netcoreapp3.1\DrawPicContracts.pdb
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicContracts\obj\Debug\netcoreapp3.1\DrawPicContracts.csprojAssemblyReference.cache
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicContracts\obj\Debug\netcoreapp3.1\DrawPicContracts.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicContracts\bin\Debug\netcoreapp3.1\InfraContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicContracts\bin\Debug\netcoreapp3.1\InfraContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicContracts\obj\Debug\netcoreapp3.1\DrawPicContracts.csproj.CopyComplete
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicContracts\bin\Debug\netcoreapp3.1\DIContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicContracts\bin\Debug\netcoreapp3.1\DIContracts.pdb

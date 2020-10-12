@@ -2,15 +2,6 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Contracts/1.0.5": {
-        "type": "package",
-        "compile": {
-          "lib/netcoreapp3.1/Contracts.dll": {}
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/Contracts.dll": {}
-        }
-      },
       "IdMechanism/1.0.1": {
         "type": "package",
         "compile": {
@@ -20,17 +11,13 @@
           "lib/netcoreapp3.1/IdMechanism.dll": {}
         }
       },
-      "InfraContracts/1.0.8": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.5": {
         "type": "package",
-        "dependencies": {
-          "Newtonsoft.Json": "12.0.3",
-          "ODP.NetCore": "2.0.12"
-        },
         "compile": {
-          "lib/netcoreapp3.1/InfraContracts.dll": {}
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp3.1/InfraContracts.dll": {}
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         }
       },
       "Newtonsoft.Json/12.0.3": {
@@ -51,6 +38,19 @@
           "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
         }
       },
+      "DIContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.5"
+        },
+        "compile": {
+          "bin/placeholder/DIContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DIContracts.dll": {}
+        }
+      },
       "DocumentsDal/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -69,7 +69,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Contracts": "1.0.5",
+          "DIContracts": "1.0.0",
           "InfraContracts": "1.0.8",
           "Newtonsoft.Json": "12.0.3",
           "ODP.NetCore": "2.0.12"
@@ -80,21 +80,24 @@
         "runtime": {
           "bin/placeholder/DrawPicContracts.dll": {}
         }
+      },
+      "InfraContracts/1.0.8": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "ODP.NetCore": "2.0.12"
+        },
+        "compile": {
+          "bin/placeholder/InfraContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InfraContracts.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "Contracts/1.0.5": {
-      "sha512": "CyAXkwPti+uPYjKAmUgJktwBtKrkAjNBWvoWFNIK9p0pZAh7Aa3TsKbXX1P8pKjhU8PLS+VP8nzH88GdZplm+A==",
-      "type": "package",
-      "path": "contracts/1.0.5",
-      "files": [
-        ".nupkg.metadata",
-        "contracts.1.0.5.nupkg.sha512",
-        "contracts.nuspec",
-        "lib/netcoreapp3.1/Contracts.dll"
-      ]
-    },
     "IdMechanism/1.0.1": {
       "sha512": "GAWxdUE7BZDKkrI+U9eADu8wGIOtoI0sUdyL2NmMyOUbYWIa+L6SyJwiSv84XCL3h3EnCIbeOdu9MMXxw78DxQ==",
       "type": "package",
@@ -106,15 +109,18 @@
         "lib/netcoreapp3.1/IdMechanism.dll"
       ]
     },
-    "InfraContracts/1.0.8": {
-      "sha512": "ucxNK3JWWul6ATZpVlEHDeIQoeX55OoNo++AjSs+/C3OtIthc2zSD6L0L0j4zsHDIGS675r8ZeFXyNWOLdRuSw==",
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.5": {
+      "sha512": "2VSCj2TZPMdeEi279Lawi6qJQu4+sEWizSOYrhY6hapyS1jxn1jVUZT1Ugv68bya+x8+3lD4+RqhUZql9PhISQ==",
       "type": "package",
-      "path": "infracontracts/1.0.8",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.5",
       "files": [
         ".nupkg.metadata",
-        "infracontracts.1.0.8.nupkg.sha512",
-        "infracontracts.nuspec",
-        "lib/netcoreapp3.1/InfraContracts.dll"
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec"
       ]
     },
     "Newtonsoft.Json/12.0.3": {
@@ -160,6 +166,11 @@
         "odp.netcore.nuspec"
       ]
     },
+    "DIContracts/1.0.0": {
+      "type": "project",
+      "path": "../../../../RestAPI/infra/DIContracts/DIContracts.csproj",
+      "msbuildProject": "../../../../RestAPI/infra/DIContracts/DIContracts.csproj"
+    },
     "DocumentsDal/1.0.0": {
       "type": "project",
       "path": "../DocumentsDal/DocumentsDal.csproj",
@@ -169,6 +180,11 @@
       "type": "project",
       "path": "../DrawPicContracts/DrawPicContracts.csproj",
       "msbuildProject": "../DrawPicContracts/DrawPicContracts.csproj"
+    },
+    "InfraContracts/1.0.8": {
+      "type": "project",
+      "path": "../../../Infra/InfraContracts/InfraContracts.csproj",
+      "msbuildProject": "../../../Infra/InfraContracts/InfraContracts.csproj"
     }
   },
   "projectFileDependencyGroups": {

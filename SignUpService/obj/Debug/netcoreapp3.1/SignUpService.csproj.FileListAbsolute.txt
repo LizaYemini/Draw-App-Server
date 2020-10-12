@@ -22,3 +22,7 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpSer
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpService\obj\Debug\netcoreapp3.1\SignUpService.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpService\obj\Debug\netcoreapp3.1\SignUpService.pdb
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpService\obj\Debug\netcoreapp3.1\SignUpService.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpService\bin\Debug\netcoreapp3.1\DIContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpService\bin\Debug\netcoreapp3.1\InfraContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpService\bin\Debug\netcoreapp3.1\DIContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpService\bin\Debug\netcoreapp3.1\InfraContracts.pdb

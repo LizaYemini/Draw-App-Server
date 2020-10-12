@@ -22,3 +22,7 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ValidateS
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ValidateService\obj\Debug\netcoreapp3.1\ValidateService.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ValidateService\obj\Debug\netcoreapp3.1\ValidateService.pdb
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ValidateService\obj\Debug\netcoreapp3.1\ValidateService.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ValidateService\bin\Debug\netcoreapp3.1\DIContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ValidateService\bin\Debug\netcoreapp3.1\InfraContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ValidateService\bin\Debug\netcoreapp3.1\DIContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ValidateService\bin\Debug\netcoreapp3.1\InfraContracts.pdb

@@ -34,3 +34,11 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateSha
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.csproj.CopyComplete
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\bin\Debug\netcoreapp3.1\InfraContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\bin\Debug\netcoreapp3.1\InfraDal.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\bin\Debug\netcoreapp3.1\InfraContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\bin\Debug\netcoreapp3.1\InfraDal.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\bin\Debug\netcoreapp3.1\DIContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\bin\Debug\netcoreapp3.1\DIContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\bin\Debug\netcoreapp3.1\DI.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\CreateShareService\bin\Debug\netcoreapp3.1\DI.pdb
