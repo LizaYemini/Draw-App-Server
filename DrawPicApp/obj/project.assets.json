@@ -3655,8 +3655,8 @@
     },
     "InfraDal/1.0.0": {
       "type": "project",
-      "path": "../../../Infra/InfraDal/InfraDal.csproj",
-      "msbuildProject": "../../../Infra/InfraDal/InfraDal.csproj"
+      "path": "../InfraDal/InfraDal.csproj",
+      "msbuildProject": "../InfraDal/InfraDal.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3702,14 +3702,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DI\\DI.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DI\\DI.csproj"
+            },
             "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\DrawPicContracts.csproj": {
               "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\DrawPicContracts\\DrawPicContracts.csproj"
             },
-            "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Infra\\InfraDal\\InfraDal.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Infra\\InfraDal\\InfraDal.csproj"
-            },
-            "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\RestAPI\\infra\\DI\\DI.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\RestAPI\\infra\\DI\\DI.csproj"
+            "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\InfraDal\\InfraDal.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\InfraDal\\InfraDal.csproj"
             }
           }
         }

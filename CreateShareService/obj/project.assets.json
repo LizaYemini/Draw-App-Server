@@ -3686,8 +3686,8 @@
     },
     "InfraDal/1.0.0": {
       "type": "project",
-      "path": "../../../Infra/InfraDal/InfraDal.csproj",
-      "msbuildProject": "../../../Infra/InfraDal/InfraDal.csproj"
+      "path": "../InfraDal/InfraDal.csproj",
+      "msbuildProject": "../InfraDal/InfraDal.csproj"
     }
   },
   "projectFileDependencyGroups": {

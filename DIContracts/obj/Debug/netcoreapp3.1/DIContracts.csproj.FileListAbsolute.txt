@@ -7,3 +7,11 @@ C:\Users\User\Desktop\Studies\Mizrahi\RestAPI\infra\DIContracts\bin\Debug\netcor
 C:\Users\User\Desktop\Studies\Mizrahi\RestAPI\infra\DIContracts\bin\Debug\netcoreapp3.1\DIContracts.pdb
 C:\Users\User\Desktop\Studies\Mizrahi\RestAPI\infra\DIContracts\obj\Debug\netcoreapp3.1\DIContracts.dll
 C:\Users\User\Desktop\Studies\Mizrahi\RestAPI\infra\DIContracts\obj\Debug\netcoreapp3.1\DIContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DIContracts\bin\Debug\netcoreapp3.1\DIContracts.deps.json
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DIContracts\bin\Debug\netcoreapp3.1\DIContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DIContracts\bin\Debug\netcoreapp3.1\DIContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DIContracts\obj\Debug\netcoreapp3.1\DIContracts.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DIContracts\obj\Debug\netcoreapp3.1\DIContracts.AssemblyInfo.cs
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DIContracts\obj\Debug\netcoreapp3.1\DIContracts.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DIContracts\obj\Debug\netcoreapp3.1\DIContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DIContracts\obj\Debug\netcoreapp3.1\DIContracts.pdb

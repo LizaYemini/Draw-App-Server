@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerWebSocket\bin\Debug\netcoreapp3.1\MarkerWebSocket.deps.json
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerWebSocket\bin\Debug\netcoreapp3.1\MarkerWebSocket.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerWebSocket\bin\Debug\netcoreapp3.1\MarkerWebSocket.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerWebSocket\bin\Debug\netcoreapp3.1\DI.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerWebSocket\bin\Debug\netcoreapp3.1\DIContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerWebSocket\bin\Debug\netcoreapp3.1\DrawPicContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerWebSocket\bin\Debug\netcoreapp3.1\InfraContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerWebSocket\bin\Debug\netcoreapp3.1\DrawPicContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerWebSocket\bin\Debug\netcoreapp3.1\DI.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerWebSocket\bin\Debug\netcoreapp3.1\DIContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerWebSocket\bin\Debug\netcoreapp3.1\InfraContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerWebSocket\obj\Debug\netcoreapp3.1\MarkerWebSocket.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerWebSocket\obj\Debug\netcoreapp3.1\MarkerWebSocket.AssemblyInfo.cs
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerWebSocket\obj\Debug\netcoreapp3.1\MarkerWebSocket.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerWebSocket\obj\Debug\netcoreapp3.1\MarkerWebSocket.csproj.CopyComplete
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerWebSocket\obj\Debug\netcoreapp3.1\MarkerWebSocket.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\MarkerWebSocket\obj\Debug\netcoreapp3.1\MarkerWebSocket.pdb

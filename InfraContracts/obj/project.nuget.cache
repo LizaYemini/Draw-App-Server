@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AR+r7xgIC+jpYpmANCO/WVaYyqw7QZ53SSQIpzvG8Xkz5b73jE5Rri4XGfxaX4zMRtPDmjurmKXxQLrASorzTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\InfraContracts\\InfraContracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\odp.netcore\\2.0.12\\odp.netcore.2.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

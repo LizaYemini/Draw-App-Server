@@ -16,9 +16,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\RestAPI\infra\DI\DI.csproj" />
-    <ProjectReference Include="..\..\..\Infra\InfraDal\InfraDal.csproj" />
-    <ProjectReference Include="..\DrawPicContracts\DrawPicContracts.csproj" />
+	  <ProjectReference Include="..\DI\DI.csproj" />
+	  <ProjectReference Include="..\DrawPicContracts\DrawPicContracts.csproj" />
+	  <ProjectReference Include="..\InfraDal\InfraDal.csproj" />
   </ItemGroup>
 
 
