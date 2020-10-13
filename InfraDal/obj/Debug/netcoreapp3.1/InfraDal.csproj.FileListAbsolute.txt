@@ -21,3 +21,4 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\InfraDal\
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\InfraDal\obj\Debug\netcoreapp3.1\InfraDal.csproj.CopyComplete
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\InfraDal\obj\Debug\netcoreapp3.1\InfraDal.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\InfraDal\obj\Debug\netcoreapp3.1\InfraDal.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\InfraDal\obj\Debug\netcoreapp3.1\InfraDal.csprojAssemblyReference.cache

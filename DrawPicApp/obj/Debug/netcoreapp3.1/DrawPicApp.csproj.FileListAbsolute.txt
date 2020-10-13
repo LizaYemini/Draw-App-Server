@@ -42,3 +42,4 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicAp
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.pdb
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\obj\Debug\netcoreapp3.1\DrawPicApp.genruntimeconfig.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DrawPicApp\bin\Debug\netcoreapp3.1\InfraMessengerWS.pdb

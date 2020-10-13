@@ -26,3 +26,4 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateMar
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateMarkerService\obj\Debug\netcoreapp3.1\UpdateMarkerService.csproj.CopyComplete
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateMarkerService\obj\Debug\netcoreapp3.1\UpdateMarkerService.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateMarkerService\obj\Debug\netcoreapp3.1\UpdateMarkerService.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\UpdateMarkerService\obj\Debug\netcoreapp3.1\UpdateMarkerService.csprojAssemblyReference.cache

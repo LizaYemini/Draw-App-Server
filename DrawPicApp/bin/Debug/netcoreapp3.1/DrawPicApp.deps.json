@@ -323,20 +323,6 @@
           "DrawPicApp.dll": {}
         }
       },
-      "InfraMessengerWS/1.0.2": {
-        "dependencies": {
-          "InfraContracts": "1.0.8"
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/InfraMessengerWS.dll": {
-            "assemblyVersion": "1.0.2.0",
-            "fileVersion": "1.0.2.0"
-          }
-        },
-        "compile": {
-          "lib/netcoreapp3.1/InfraMessengerWS.dll": {}
-        }
-      },
       "Microsoft.AspNetCore.Authentication.Abstractions/2.2.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
@@ -969,6 +955,17 @@
         },
         "compile": {
           "InfraDal.dll": {}
+        }
+      },
+      "InfraMessengerWS/1.0.2": {
+        "dependencies": {
+          "InfraContracts": "1.0.8"
+        },
+        "runtime": {
+          "InfraMessengerWS.dll": {}
+        },
+        "compile": {
+          "InfraMessengerWS.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2659,13 +2656,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "InfraMessengerWS/1.0.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-5F/wuwwdvGA8uOgSak37gbWEaEZMdgIzzMQeXkDh28ve2uSdzi7LFxUSdJu8DVDG0Jj2+3OxB5Pzx6/SZ4rxLA==",
-      "path": "inframessengerws/1.0.2",
-      "hashPath": "inframessengerws.1.0.2.nupkg.sha512"
-    },
     "Microsoft.AspNetCore.Authentication.Abstractions/2.2.0": {
       "type": "package",
       "serviceable": true,
@@ -3212,6 +3202,11 @@
       "sha512": ""
     },
     "InfraDal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InfraMessengerWS/1.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

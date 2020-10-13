@@ -27,3 +27,4 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignInSer
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignInService\obj\Debug\netcoreapp3.1\SignInService.csproj.CopyComplete
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignInService\obj\Debug\netcoreapp3.1\SignInService.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignInService\obj\Debug\netcoreapp3.1\SignInService.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignInService\obj\Debug\netcoreapp3.1\SignInService.csprojAssemblyReference.cache

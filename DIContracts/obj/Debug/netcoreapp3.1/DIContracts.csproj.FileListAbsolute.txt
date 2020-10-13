@@ -15,3 +15,4 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DIContrac
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DIContracts\obj\Debug\netcoreapp3.1\DIContracts.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DIContracts\obj\Debug\netcoreapp3.1\DIContracts.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DIContracts\obj\Debug\netcoreapp3.1\DIContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\DIContracts\obj\Debug\netcoreapp3.1\DIContracts.csprojAssemblyReference.cache

@@ -18,6 +18,7 @@
 	  <ProjectReference Include="..\DI\DI.csproj" />
 	  <ProjectReference Include="..\DrawPicContracts\DrawPicContracts.csproj" />
 	  <ProjectReference Include="..\InfraDal\InfraDal.csproj" />
+	  <ProjectReference Include="..\InfraMessangerWS\InfraMessengerWS.csproj" />
   </ItemGroup>
 
 

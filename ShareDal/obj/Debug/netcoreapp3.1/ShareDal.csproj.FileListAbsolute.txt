@@ -27,3 +27,4 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDal\
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDal\obj\Debug\netcoreapp3.1\ShareDal.csproj.CopyComplete
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDal\obj\Debug\netcoreapp3.1\ShareDal.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDal\obj\Debug\netcoreapp3.1\ShareDal.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDal\obj\Debug\netcoreapp3.1\ShareDal.csprojAssemblyReference.cache

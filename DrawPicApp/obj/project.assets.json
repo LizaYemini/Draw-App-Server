@@ -1054,6 +1054,19 @@
         "runtime": {
           "bin/placeholder/InfraDal.dll": {}
         }
+      },
+      "InfraMessengerWS/1.0.2": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "InfraContracts": "1.0.8"
+        },
+        "compile": {
+          "bin/placeholder/InfraMessengerWS.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InfraMessengerWS.dll": {}
+        }
       }
     }
   },
@@ -3634,6 +3647,11 @@
       "type": "project",
       "path": "../InfraDal/InfraDal.csproj",
       "msbuildProject": "../InfraDal/InfraDal.csproj"
+    },
+    "InfraMessengerWS/1.0.2": {
+      "type": "project",
+      "path": "../InfraMessangerWS/InfraMessengerWS.csproj",
+      "msbuildProject": "../InfraMessangerWS/InfraMessengerWS.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3641,6 +3659,7 @@
       "DI >= 1.0.0",
       "DrawPicContracts >= 1.0.0",
       "InfraDal >= 1.0.0",
+      "InfraMessengerWS >= 1.0.2",
       "Microsoft.AspNetCore.Cors >= 2.2.0",
       "Microsoft.AspNetCore.Mvc.Formatters.Json >= 2.2.0",
       "Newtonsoft.Json >= 12.0.3",
@@ -3686,6 +3705,9 @@
             },
             "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\InfraDal\\InfraDal.csproj": {
               "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\InfraDal\\InfraDal.csproj"
+            },
+            "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\InfraMessangerWS\\InfraMessengerWS.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Studies\\Mizrahi\\FinalProject\\Git\\Draw-App-Server\\InfraMessangerWS\\InfraMessengerWS.csproj"
             }
           }
         }
