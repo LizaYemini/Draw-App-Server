@@ -43,7 +43,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserDal", "..\UserDal\UserD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidateService", "..\ValidateService\ValidateService.csproj", "{677BE187-5194-43A7-BFA7-0EF641B6707A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkerWebSocket", "..\MarkerWebSocket\MarkerWebSocket.csproj", "{EB5AAC02-4912-4DA5-90F1-1F29A0C9ADF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarkerWebSocket", "..\MarkerWebSocket\MarkerWebSocket.csproj", "{EB5AAC02-4912-4DA5-90F1-1F29A0C9ADF8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveMarkerService", "..\RemoveMarkerService\RemoveMarkerService.csproj", "{0BD7235D-6382-43A3-8673-B43512DEAF58}"
 EndProject
@@ -58,6 +58,10 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfraContracts", "..\InfraContracts\InfraContracts.csproj", "{0CDBA2BE-3595-4652-9FE7-DB3EBC66C69D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfraMessengerWS", "..\InfraMessangerWS\InfraMessengerWS.csproj", "{A0C03685-52F8-4E6A-976F-7C0709F3F13C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveWatchDocsDal", "..\LiveWatchDocsDal\LiveWatchDocsDal.csproj", "{0BB99166-6CC4-4CE0-9F1F-47A150D3AD32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveWatchDocsDalTester", "..\LiveWatchDocsDalTester\LiveWatchDocsDalTester.csproj", "{050FCD35-F222-4B40-9D24-3A719CF5BB7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +181,14 @@ Global
 		{A0C03685-52F8-4E6A-976F-7C0709F3F13C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0C03685-52F8-4E6A-976F-7C0709F3F13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0C03685-52F8-4E6A-976F-7C0709F3F13C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB99166-6CC4-4CE0-9F1F-47A150D3AD32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB99166-6CC4-4CE0-9F1F-47A150D3AD32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB99166-6CC4-4CE0-9F1F-47A150D3AD32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB99166-6CC4-4CE0-9F1F-47A150D3AD32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{050FCD35-F222-4B40-9D24-3A719CF5BB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{050FCD35-F222-4B40-9D24-3A719CF5BB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{050FCD35-F222-4B40-9D24-3A719CF5BB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{050FCD35-F222-4B40-9D24-3A719CF5BB7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,6 +3,7 @@ using System.Text;
 using DIContracts;
 using DrawPicContracts.DTO;
 using DrawPicContracts.Interface;
+using DrawPicContracts.Interface.Dal;
 using DrawPicContracts.Interface.WebSocket;
 using InfraContracts.DTO;
 

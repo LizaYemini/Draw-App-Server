@@ -4,7 +4,7 @@ using System.Data;
 using System.Text;
 using DrawPicContracts.DTO;
 
-namespace DrawPicContracts.Interface
+namespace DrawPicContracts.Interface.Dal
 {
     public interface IUserDal
     {

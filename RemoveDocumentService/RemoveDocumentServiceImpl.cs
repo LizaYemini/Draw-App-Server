@@ -3,6 +3,7 @@ using DrawPicContracts.Interface;
 using InfraContracts.DTO;
 using System;
 using DIContracts;
+using DrawPicContracts.Interface.Dal;
 
 namespace RemoveDocumentService
 {

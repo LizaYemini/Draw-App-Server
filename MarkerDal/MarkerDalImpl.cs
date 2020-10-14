@@ -3,6 +3,7 @@ using System.Data;
 using DIContracts;
 using DrawPicContracts.DTO;
 using DrawPicContracts.Interface;
+using DrawPicContracts.Interface.Dal;
 using InfraContracts.Interfaces;
 using Oracle.ManagedDataAccess.Client;
 

@@ -4,6 +4,7 @@ using InfraContracts.DTO;
 using System;
 using System.Text;
 using DIContracts;
+using DrawPicContracts.Interface.Dal;
 
 namespace AddDocumentService
 {

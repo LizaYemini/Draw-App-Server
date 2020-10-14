@@ -3,23 +3,9 @@
   &lt;Assembly Path="C:\Users\User\.nuget\packages\contracts\1.0.3\lib\netcoreapp3.1\Contracts.dll" /&gt;&#xD;
 &lt;/AssemblyExplorer&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=20375921_002Dfe89_002D48c2_002Da9e4_002Dab237db05796/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SignUpOk" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Or&gt;&#xD;
-    &lt;ProjectFile&gt;550DF7F8-4D2B-4D7C-B175-F98770331AE8/f:UnitTest1.cs&lt;/ProjectFile&gt;&#xD;
-    &lt;TestAncestor&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::5647A3AE-AED4-43B8-A6E8-F05044E7F88C::.NETCoreApp,Version=v3.1::DocumentsDalTester.Tests.Test1&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::4E261BB3-0AE8-424E-83AD-6A788BDD9AEA::.NETCoreApp,Version=v3.1::AddDocumentServiceTest.Tests.Test1&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::5647A3AE-AED4-43B8-A6E8-F05044E7F88C::.NETCoreApp,Version=v3.1::DocumentsDalTester.Tests.UpdateDocumentTest1&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::5647A3AE-AED4-43B8-A6E8-F05044E7F88C::.NETCoreApp,Version=v3.1::DocumentsDalTester.Tests.RemoveDocumentTest1&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::5647A3AE-AED4-43B8-A6E8-F05044E7F88C::.NETCoreApp,Version=v3.1::DocumentsDalTester.Tests.GetDocsByOwnerId&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::5647A3AE-AED4-43B8-A6E8-F05044E7F88C::.NETCoreApp,Version=v3.1::DocumentsDalTester.Tests.AddDocumentTest2&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::5647A3AE-AED4-43B8-A6E8-F05044E7F88C::.NETCoreApp,Version=v3.1::DocumentsDalTester.Tests.GetDocByDocId1&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::6A8FDC1D-B0B4-4478-BB49-451EEAB6699B::.NETCoreApp,Version=v3.1::GetDocumentServiceTester.Tests.GetDocByDocIdTest1&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::6A8FDC1D-B0B4-4478-BB49-451EEAB6699B::.NETCoreApp,Version=v3.1::GetDocumentServiceTester.Tests.GetDocsByOwnerIdTest1&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::0948AC65-0875-486D-8BFD-559BF26D7EFB::.NETCoreApp,Version=v3.1::ShareDalTester.Tests.CreateShareTest&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::0948AC65-0875-486D-8BFD-559BF26D7EFB::.NETCoreApp,Version=v3.1::ShareDalTester.Tests.GetShareTest&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::0948AC65-0875-486D-8BFD-559BF26D7EFB::.NETCoreApp,Version=v3.1::ShareDalTester.Tests.GetShareTest2&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::0948AC65-0875-486D-8BFD-559BF26D7EFB::.NETCoreApp,Version=v3.1::ShareDalTester.Tests.RemoveShareTest1&lt;/TestId&gt;&#xD;
-    &lt;/TestAncestor&gt;&#xD;
-    &lt;ProjectFile&gt;6A8FDC1D-B0B4-4478-BB49-451EEAB6699B/f:UnitTest1.cs&lt;/ProjectFile&gt;&#xD;
-  &lt;/Or&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::050FCD35-F222-4B40-9D24-3A719CF5BB7F::.NETCoreApp,Version=v3.1::LiveWatchDocsDalTester.Tests.CreateLiveWatchTestExists&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::050FCD35-F222-4B40-9D24-3A719CF5BB7F::.NETCoreApp,Version=v3.1::LiveWatchDocsDalTester.Tests.GetWatchersOfDocTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::050FCD35-F222-4B40-9D24-3A719CF5BB7F::.NETCoreApp,Version=v3.1::LiveWatchDocsDalTester.Tests.RemoveLiveWatchTestOk&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

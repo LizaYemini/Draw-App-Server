@@ -19,8 +19,4 @@
     <ProjectReference Include="..\InfraContracts\InfraContracts.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="DTO\LiveWatch\Response\" />
-  </ItemGroup>
-
 </Project>

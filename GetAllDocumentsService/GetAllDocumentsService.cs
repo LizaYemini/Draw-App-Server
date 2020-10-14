@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using DIContracts;
 using DrawPicContracts.DTO;
 using DrawPicContracts.Interface;
+using DrawPicContracts.Interface.Dal;
 using InfraContracts.DTO;
 
 namespace GetAllDocumentsService

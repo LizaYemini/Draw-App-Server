@@ -2,6 +2,7 @@
 using DrawPicContracts.Interface;
 using System;
 using DIContracts;
+using DrawPicContracts.Interface.Dal;
 using InfraContracts.DTO;
 
 namespace SignUpService
