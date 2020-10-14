@@ -114,8 +114,6 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocume
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentServiceTest\bin\Debug\netcoreapp3.1\AddDocumentServiceTest.runtimeconfig.dev.json
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentServiceTest\bin\Debug\netcoreapp3.1\AddDocumentServiceTest.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentServiceTest\bin\Debug\netcoreapp3.1\AddDocumentServiceTest.pdb
-C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentServiceTest\bin\Debug\netcoreapp3.1\Contracts.dll
-C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentServiceTest\bin\Debug\netcoreapp3.1\IdMechanism.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentServiceTest\bin\Debug\netcoreapp3.1\InfraContracts.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentServiceTest\bin\Debug\netcoreapp3.1\InfraDal.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentServiceTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
@@ -212,3 +210,10 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocume
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentServiceTest\obj\Debug\netcoreapp3.1\AddDocumentServiceTest.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentServiceTest\obj\Debug\netcoreapp3.1\AddDocumentServiceTest.pdb
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentServiceTest\obj\Debug\netcoreapp3.1\AddDocumentServiceTest.genruntimeconfig.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentServiceTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentServiceTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentServiceTest\bin\Debug\netcoreapp3.1\DI.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentServiceTest\bin\Debug\netcoreapp3.1\DIContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentServiceTest\bin\Debug\netcoreapp3.1\DI.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentServiceTest\bin\Debug\netcoreapp3.1\DIContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\AddDocumentServiceTest\bin\Debug\netcoreapp3.1\InfraContracts.pdb

@@ -1,3 +1,4 @@
+using DrawPicApp;
 using DrawPicContracts.DTO;
 using DrawPicContracts.Interface;
 using InfraDal;
@@ -13,7 +14,7 @@ namespace SignUpTester
         [SetUp]
         public void Setup()
         {
-            UserDalImpl userDal = new UserDalImpl(new InfraDalImpl());
+            UserDalImpl userDal = new UserDalImpl(new InfraDalImpl(), new ProductionDbContextConnectionString());
             signUpService = new SignUpServiceImpl(userDal);
         }
 

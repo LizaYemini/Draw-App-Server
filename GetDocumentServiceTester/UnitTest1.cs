@@ -1,4 +1,5 @@
 using DocumentsDal;
+using DrawPicApp;
 using DrawPicContracts.DTO;
 using GetDocumentService;
 using InfraDal;
@@ -13,7 +14,7 @@ namespace GetDocumentServiceTester
         [SetUp]
         public void Setup()
         {
-            _docDal = new DocumentsDalImpl(new InfraDalImpl());
+            _docDal = new DocumentsDalImpl(new InfraDalImpl(), new ProductionDbContextConnectionString());
             _service = new GetDocumentServiceImpl(_docDal);
         }
 

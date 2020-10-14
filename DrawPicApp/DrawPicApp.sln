@@ -59,9 +59,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfraContracts", "..\InfraC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfraMessengerWS", "..\InfraMessangerWS\InfraMessengerWS.csproj", "{A0C03685-52F8-4E6A-976F-7C0709F3F13C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveWatchDocsDal", "..\LiveWatchDocsDal\LiveWatchDocsDal.csproj", "{0BB99166-6CC4-4CE0-9F1F-47A150D3AD32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveWatchDocsDal", "..\LiveWatchDocsDal\LiveWatchDocsDal.csproj", "{0BB99166-6CC4-4CE0-9F1F-47A150D3AD32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveWatchDocsDalTester", "..\LiveWatchDocsDalTester\LiveWatchDocsDalTester.csproj", "{050FCD35-F222-4B40-9D24-3A719CF5BB7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveWatchDocsDalTester", "..\LiveWatchDocsDalTester\LiveWatchDocsDalTester.csproj", "{050FCD35-F222-4B40-9D24-3A719CF5BB7F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddDocumentServiceTest", "..\AddDocumentServiceTest\AddDocumentServiceTest.csproj", "{96AE8583-9F3E-4156-A1C5-BB604B1DC089}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocumentsDalTester", "..\DocumentsDalTester\DocumentsDalTester.csproj", "{54D4CDE9-9E88-4C65-8D0D-FBFCC1A7983D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetDocumentServiceTester", "..\GetDocumentServiceTester\GetDocumentServiceTester.csproj", "{B0FDB56D-7C13-4333-9429-9883C68DC8FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShareDalTester", "..\ShareDalTester\ShareDalTester.csproj", "{2F35FBB6-CA48-4F1D-8124-2A4212951603}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignUpTester", "..\SignUpTester\SignUpTester.csproj", "{3F9465C0-26A4-48AE-B22B-8B563F39D919}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +199,26 @@ Global
 		{050FCD35-F222-4B40-9D24-3A719CF5BB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{050FCD35-F222-4B40-9D24-3A719CF5BB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{050FCD35-F222-4B40-9D24-3A719CF5BB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96AE8583-9F3E-4156-A1C5-BB604B1DC089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96AE8583-9F3E-4156-A1C5-BB604B1DC089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96AE8583-9F3E-4156-A1C5-BB604B1DC089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96AE8583-9F3E-4156-A1C5-BB604B1DC089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D4CDE9-9E88-4C65-8D0D-FBFCC1A7983D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D4CDE9-9E88-4C65-8D0D-FBFCC1A7983D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D4CDE9-9E88-4C65-8D0D-FBFCC1A7983D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D4CDE9-9E88-4C65-8D0D-FBFCC1A7983D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0FDB56D-7C13-4333-9429-9883C68DC8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FDB56D-7C13-4333-9429-9883C68DC8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FDB56D-7C13-4333-9429-9883C68DC8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FDB56D-7C13-4333-9429-9883C68DC8FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F35FBB6-CA48-4F1D-8124-2A4212951603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F35FBB6-CA48-4F1D-8124-2A4212951603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F35FBB6-CA48-4F1D-8124-2A4212951603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F35FBB6-CA48-4F1D-8124-2A4212951603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F9465C0-26A4-48AE-B22B-8B563F39D919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9465C0-26A4-48AE-B22B-8B563F39D919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9465C0-26A4-48AE-B22B-8B563F39D919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9465C0-26A4-48AE-B22B-8B563F39D919}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

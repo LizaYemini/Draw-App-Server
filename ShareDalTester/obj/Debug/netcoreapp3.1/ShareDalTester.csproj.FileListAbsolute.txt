@@ -111,7 +111,6 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDalT
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDalTester\bin\Debug\netcoreapp3.1\ShareDalTester.runtimeconfig.dev.json
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDalTester\bin\Debug\netcoreapp3.1\ShareDalTester.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDalTester\bin\Debug\netcoreapp3.1\ShareDalTester.pdb
-C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDalTester\bin\Debug\netcoreapp3.1\Contracts.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDalTester\bin\Debug\netcoreapp3.1\InfraContracts.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDalTester\bin\Debug\netcoreapp3.1\InfraDal.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDalTester\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
@@ -206,3 +205,10 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDalT
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDalTester\obj\Debug\netcoreapp3.1\ShareDalTester.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDalTester\obj\Debug\netcoreapp3.1\ShareDalTester.pdb
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDalTester\obj\Debug\netcoreapp3.1\ShareDalTester.genruntimeconfig.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDalTester\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDalTester\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDalTester\bin\Debug\netcoreapp3.1\DI.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDalTester\bin\Debug\netcoreapp3.1\DIContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDalTester\bin\Debug\netcoreapp3.1\DI.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDalTester\bin\Debug\netcoreapp3.1\DIContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\ShareDalTester\bin\Debug\netcoreapp3.1\InfraContracts.pdb

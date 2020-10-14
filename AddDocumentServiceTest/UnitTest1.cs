@@ -1,5 +1,6 @@
 using AddDocumentService;
 using DocumentsDal;
+using DrawPicApp;
 using DrawPicContracts.DTO;
 using InfraDal;
 using NUnit.Framework;
@@ -14,7 +15,7 @@ namespace AddDocumentServiceTest
         [SetUp]
         public void Setup()
         {
-            _dal = new DocumentsDalImpl(new InfraDalImpl());
+            _dal = new DocumentsDalImpl(new InfraDalImpl(), new ProductionDbContextConnectionString());
             _service = new AddDocumentServiceImpl(_dal);
         }
 

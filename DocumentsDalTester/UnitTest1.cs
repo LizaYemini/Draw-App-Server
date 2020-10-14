@@ -1,5 +1,6 @@
 using System;
 using DocumentsDal;
+using DrawPicApp;
 using DrawPicContracts.DTO;
 using InfraDal;
 using NUnit.Framework;
@@ -12,7 +13,7 @@ namespace DocumentsDalTester
         [SetUp]
         public void Setup()
         {
-            _dal = new DocumentsDalImpl(new InfraDalImpl());
+            _dal = new DocumentsDalImpl(new InfraDalImpl(), new ProductionDbContextConnectionString());
         }
 
         [Test]

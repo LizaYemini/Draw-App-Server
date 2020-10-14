@@ -1,3 +1,4 @@
+using DrawPicApp;
 using DrawPicContracts.DTO;
 using InfraDal;
 using NUnit.Framework;
@@ -11,7 +12,7 @@ namespace ShareDalTester
         [SetUp]
         public void Setup()
         {
-            _dal = new ShareDalImpl(new InfraDalImpl());
+            _dal = new ShareDalImpl(new InfraDalImpl(), new ProductionDbContextConnectionString());
         }
 
         [Test]

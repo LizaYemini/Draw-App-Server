@@ -113,7 +113,6 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpTes
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpTester\bin\Debug\netcoreapp3.1\SignUpTester.runtimeconfig.dev.json
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpTester\bin\Debug\netcoreapp3.1\SignUpTester.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpTester\bin\Debug\netcoreapp3.1\SignUpTester.pdb
-C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpTester\bin\Debug\netcoreapp3.1\Contracts.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpTester\bin\Debug\netcoreapp3.1\InfraContracts.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpTester\bin\Debug\netcoreapp3.1\InfraDal.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpTester\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
@@ -210,3 +209,10 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpTes
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpTester\obj\Debug\netcoreapp3.1\SignUpTester.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpTester\obj\Debug\netcoreapp3.1\SignUpTester.pdb
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpTester\obj\Debug\netcoreapp3.1\SignUpTester.genruntimeconfig.cache
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpTester\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpTester\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpTester\bin\Debug\netcoreapp3.1\DI.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpTester\bin\Debug\netcoreapp3.1\DIContracts.dll
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpTester\bin\Debug\netcoreapp3.1\DI.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpTester\bin\Debug\netcoreapp3.1\DIContracts.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\SignUpTester\bin\Debug\netcoreapp3.1\InfraContracts.pdb
