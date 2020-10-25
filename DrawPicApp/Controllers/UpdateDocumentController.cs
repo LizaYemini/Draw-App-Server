@@ -14,7 +14,7 @@ namespace DrawPicApp.Controllers
     [ApiController]
     public class UpdateDocumentController : ControllerBase
     {
-        private IUpdateDocumentService _service;
+        private readonly IUpdateDocumentService _service;
 
         public UpdateDocumentController(IUpdateDocumentService service)
         {

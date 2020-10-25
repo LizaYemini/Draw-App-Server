@@ -14,7 +14,7 @@ namespace DrawPicApp.Controllers
     [ApiController]
     public class GetDocsByOwnerIdController : ControllerBase
     {
-        private IGetDocumentService _service;
+        private readonly IGetDocumentService _service;
 
         public GetDocsByOwnerIdController(IGetDocumentService service)
         {

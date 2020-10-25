@@ -14,7 +14,7 @@ namespace DrawPicApp.Controllers
     [ApiController]
     public class CreateShareController : ControllerBase
     {
-        private ICreateShareService _service;
+        private readonly ICreateShareService _service;
 
         public CreateShareController(ICreateShareService service)
         {

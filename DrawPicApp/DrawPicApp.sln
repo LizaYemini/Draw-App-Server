@@ -73,6 +73,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShareDalTester", "..\ShareD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignUpTester", "..\SignUpTester\SignUpTester.csproj", "{3F9465C0-26A4-48AE-B22B-8B563F39D919}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrentlyWatchingService", "..\CurrentlyWatchingService\CurrentlyWatchingService.csproj", "{5A32CE6E-85A8-4A0D-8D4D-A67ED75752B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{3F9465C0-26A4-48AE-B22B-8B563F39D919}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F9465C0-26A4-48AE-B22B-8B563F39D919}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F9465C0-26A4-48AE-B22B-8B563F39D919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A32CE6E-85A8-4A0D-8D4D-A67ED75752B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A32CE6E-85A8-4A0D-8D4D-A67ED75752B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A32CE6E-85A8-4A0D-8D4D-A67ED75752B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A32CE6E-85A8-4A0D-8D4D-A67ED75752B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

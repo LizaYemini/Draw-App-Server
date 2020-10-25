@@ -10,7 +10,7 @@ namespace DrawPicApp.Controllers
     [ApiController]
     public class SignInController : ControllerBase
     {
-        private ISignInService _service;
+        private readonly ISignInService _service;
 
         public SignInController(ISignInService service)
         {

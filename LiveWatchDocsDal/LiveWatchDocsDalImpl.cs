@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Data;
+using DIContracts;
 using DrawPicContracts.DTO.LiveWatch;
 using DrawPicContracts.Interface;
 using DrawPicContracts.Interface.Dal;
@@ -8,6 +9,7 @@ using Oracle.ManagedDataAccess.Client;
 
 namespace LiveWatchDocsDal
 {
+    [Register(Policy.Transient, typeof(ILiveWatchDocsDal))]
     public class LiveWatchDocsDalImpl : ILiveWatchDocsDal
     {
         private readonly OracleConnection _conn;

@@ -15,7 +15,7 @@ namespace DrawPicApp.Controllers
     public class RemoveMarkerController : ControllerBase
     {
 
-        private IRemoveMarkerService _service;
+        private readonly IRemoveMarkerService _service;
 
         public RemoveMarkerController(IRemoveMarkerService service)
         {

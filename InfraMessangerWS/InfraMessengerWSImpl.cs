@@ -10,7 +10,7 @@ namespace InfraMessengerWS
 {
     public class InfraMessengerWSImpl: IInfraMessengerWS
     {
-        private Dictionary<string, WebSocket> _connections = new Dictionary<string, WebSocket>();
+        private readonly Dictionary<string, WebSocket> _connections = new Dictionary<string, WebSocket>();
 
         public async Task AddConnection(string id, WebSocket socket)
         {

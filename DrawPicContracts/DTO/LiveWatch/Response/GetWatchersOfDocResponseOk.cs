@@ -2,6 +2,6 @@
 {
     public class GetWatchersOfDocResponseOk: GetWatchersOfDocResponse
     {
-        public string[] UserIds { get; set; }
+        public string[] UsersIds { get; set; }
     }
 }

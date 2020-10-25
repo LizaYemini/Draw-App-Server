@@ -11,7 +11,7 @@ namespace GetAllUsersService
     [Register(Policy.Transient, typeof(IGetAllUsersService))]
     public class GetAllUsersServiceImpl : IGetAllUsersService
     {
-        private IUserDal _dal;
+        private readonly IUserDal _dal;
 
         public GetAllUsersServiceImpl(IUserDal dal)
         {

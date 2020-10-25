@@ -14,7 +14,7 @@ namespace DrawPicApp.Controllers
     [ApiController]
     public class CreateMarkerController : ControllerBase
     {
-        private ICreateMarkerService _service;
+        private readonly ICreateMarkerService _service;
 
         public CreateMarkerController(ICreateMarkerService service)
         {

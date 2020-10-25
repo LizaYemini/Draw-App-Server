@@ -14,7 +14,7 @@ namespace DrawPicApp.Controllers
     [ApiController]
     public class ValidateController : ControllerBase
     {
-        private IValidateService _service;
+        private readonly IValidateService _service;
 
         public ValidateController(IValidateService service)
         {

@@ -22,12 +22,14 @@ namespace SignUpTester
         public void SignUpOk()
         {
             var request = new SignUpRequest();
+            /*
             var register = new RegisterDto
+                
             {
                 Id = "Try8@hotmail.com",
                 Name = "Liza"
             };
-            //request.Register = register;
+            request.Register = register; */
             var response = signUpService.SignUp(request);
             Assert.IsInstanceOf(typeof(SignUpResponseOk), response);
         }
@@ -35,14 +37,12 @@ namespace SignUpTester
         [Test]
         public void SignUpEmailExists()
         {
-            var request = new SignUpRequest();
-            var register = new RegisterDto
+            var request = new SignUpRequest
             {
-                Id = "Liza091995@hotmail.com",
+                
+                Id = "AAA@hotmail.com",
                 Name = "Liza"
             };
-            request.Id = "AAA@hotmail.com";
-            request.Name = "Liza";
             //request.Register = register;
             var response = signUpService.SignUp(request);
             Assert.IsInstanceOf(typeof(SignUpResponseEmailExists), response);

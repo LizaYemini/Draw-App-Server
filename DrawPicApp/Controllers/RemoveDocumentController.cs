@@ -14,7 +14,7 @@ namespace DrawPicApp.Controllers
     [ApiController]
     public class RemoveDocumentController : ControllerBase
     {
-        private IRemoveDocumentService _service;
+        private readonly IRemoveDocumentService _service;
 
         public RemoveDocumentController(IRemoveDocumentService service)
         {

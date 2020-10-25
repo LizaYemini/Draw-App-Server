@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using DrawPicContracts.DTO;
+﻿using DrawPicContracts.DTO;
 using DrawPicContracts.Interface;
 using InfraContracts.DTO;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DrawPicApp.Controllers
@@ -14,7 +9,7 @@ namespace DrawPicApp.Controllers
     [ApiController]
     public class AddDocumentController : ControllerBase
     {
-        private IAddDocumentService _service;
+        private readonly IAddDocumentService _service;
 
         public AddDocumentController(IAddDocumentService service)
         {

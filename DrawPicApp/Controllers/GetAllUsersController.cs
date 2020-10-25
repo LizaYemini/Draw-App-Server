@@ -13,7 +13,7 @@ namespace DrawPicApp.Controllers
     [ApiController]
     public class GetAllUsersController : ControllerBase
     {
-        private IGetAllUsersService _service;
+        private readonly IGetAllUsersService _service;
 
         public GetAllUsersController(IGetAllUsersService service)
         {

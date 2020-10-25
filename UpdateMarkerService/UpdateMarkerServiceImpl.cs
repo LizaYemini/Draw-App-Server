@@ -11,7 +11,7 @@ namespace UpdateMarkerService
     [Register(Policy.Transient, typeof(IUpdateMarkerService))]
     public class UpdateMarkerServiceImpl : IUpdateMarkerService
     {
-        private IMarkerDal _dal;
+        private readonly IMarkerDal _dal;
         private readonly IMarkerWebSocket _markerWebSocket;
         public UpdateMarkerServiceImpl(IMarkerDal dal, IMarkerWebSocket markerWebSocket)
         {

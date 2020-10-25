@@ -26,3 +26,4 @@ C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\RemoveSha
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\RemoveShareService\obj\Debug\netcoreapp3.1\RemoveShareService.csproj.CopyComplete
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\RemoveShareService\obj\Debug\netcoreapp3.1\RemoveShareService.dll
 C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\RemoveShareService\obj\Debug\netcoreapp3.1\RemoveShareService.pdb
+C:\Users\User\Desktop\Studies\Mizrahi\FinalProject\Git\Draw-App-Server\RemoveShareService\obj\Debug\netcoreapp3.1\RemoveShareService.csprojAssemblyReference.cache

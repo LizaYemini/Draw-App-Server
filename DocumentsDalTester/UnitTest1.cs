@@ -55,7 +55,7 @@ namespace DocumentsDalTester
                 Owner = "Try@hotmail.com",
                 DocId = "3"
             };
-            var docId = Guid.NewGuid();
+            //var docId = Guid.NewGuid();
             var ret = _dal.UpdateDocument(request);
             Assert.AreEqual(1, ret.Tables.Count);
         }

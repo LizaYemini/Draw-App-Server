@@ -14,7 +14,7 @@ namespace DrawPicApp.Controllers
     [ApiController]
     public class RemoveShareController : ControllerBase
     {
-        private IRemoveShareService _service;
+        private readonly IRemoveShareService _service;
 
         public RemoveShareController(IRemoveShareService service)
         {

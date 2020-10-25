@@ -15,10 +15,12 @@ namespace DI
 
         private Dictionary<Policy, Func<Type, Type, IServiceCollection>> InitPolicy()
         {
-            var retval = new Dictionary<Policy, Func<Type, Type, IServiceCollection>>();
-            retval.Add(Policy.Singleton, (interfaceType, type) => _serviceCollection.AddSingleton(interfaceType, type));
-            retval.Add(Policy.Transient, (interfaceType, type) => _serviceCollection.AddTransient(interfaceType, type));
-            retval.Add(Policy.Scoped, (interfaceType, type) => _serviceCollection.AddScoped(interfaceType, type));
+            var retval = new Dictionary<Policy, Func<Type, Type, IServiceCollection>>
+            {
+                { Policy.Singleton, (interfaceType, type) => _serviceCollection.AddSingleton(interfaceType, type) },
+                { Policy.Transient, (interfaceType, type) => _serviceCollection.AddTransient(interfaceType, type) },
+                { Policy.Scoped, (interfaceType, type) => _serviceCollection.AddScoped(interfaceType, type) }
+            };
 
             return retval;
         }
